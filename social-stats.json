@@ -1,6 +1,8 @@
-{
-  "instagram": 3642,
-  "facebook": 2280,
-  "tiktok": 6400,
-  "lastUpdated": "2026-05-07"
-}
+[{
+  "id": 1,
+  "instagram": 3646,
+  "facebook": 2279,
+  "tiktok": 6414,
+  "lastUpdated": "2026-05-07",
+  "toDisplay": true
+}]
