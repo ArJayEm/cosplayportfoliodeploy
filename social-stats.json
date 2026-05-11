@@ -1,10 +1,43 @@
 [
   {
-    "id": 1,
-    "instagram": 3691,
-    "facebook": 2301,
-    "tiktok": 6436,
-    "lastUpdated": "2026-05-11 10:29 AM",
-    "toDisplay": true
-  }
+      "id": 1,
+      "href": "https://instagram.com/arjay__em",
+      "platform": "Instagram",
+      "username": "arjay__em",
+      "followers": 3691,
+      "toDisplay": true
+    },
+    {
+      "id": 2,
+      "href": "https://facebook.com/arjayem.cos",
+      "platform": "Facebook",
+      "username": "arjayem.cos",
+      "followers": 2301,
+      "toDisplay": true
+    },
+    {
+      "id": 3,
+      "href": "https://tiktok.com/@arjayem.cos",
+      "platform": "TikTok",
+      "username": "arjayem.cos",
+      "color": "hover:text-black",
+      "followers": 6436,
+      "toDisplay": true
+    },
+    {
+      "id": 4,
+      "href": "https://twitter.com/arjayem.cosplay",
+      "platform": "Twitter",
+      "username": "arjayem.cosplay",
+      "followers": 1200,
+      "toDisplay": false
+    },
+    {
+      "id": 5,
+      "href": "https://youtube.com/@arjayem.cosplay",
+      "platform": "YouTube",
+      "username": "arjayem.cosplay",
+      "followers": 500,
+      "toDisplay": false
+    }
 ]
