@@ -23,7 +23,6 @@
     "role": "Featured Cosplayer",
     "brand": "Fully Booked",
     "brandLogo": "/logos/fully-booked.jpeg",
-    "locationLogo": "/logos/fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
     "images": ["a.jpeg", "b.jpg", "c.jpg"]
   },
@@ -37,7 +36,6 @@
     "role": "Featured Cosplayer",
     "brand": "Fully Booked",
     "brandLogo": "/logos/fully-booked.jpeg",
-    "locationLogo": "/logos/fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
     "eventSite": "https://www.facebook.com/share/19tAb8Fws5/",
     "images": ["a.jpg", "b.jpg"]
