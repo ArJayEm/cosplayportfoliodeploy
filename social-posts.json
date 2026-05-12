@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "platform": "instagram",
+    "url": "https://www.instagram.com/reel/DX23EPhz5Po/?igsh=MXd6OWZlOHV2YmhmZg==",
+    "caption": "TOMORO Coffee x Frieren Healing Journey XDeal",
+    "date": "2026-04-15",
+    "color": "bg-blue-600",
+    "thumbnail": "../posts/thumbnail1.jpg"
+  },
+  {
+    "id": 2,
+    "platform": "tiktok",
+    "url": "",
+    "caption": "Quick change: Sanji to Loki in 60 seconds",
+    "date": "2025-11-08",
+    "color": "bg-gradient-to-br from-black-500 to-white-500",
+    "thumbnail": "../posts/thumbnail2.jpg"
+  },
+  {
+    "id": 3,
+    "platform": "facebook",
+    "url": "https://www.facebook.com/share/r/1B6SAjQPEY/",
+    "caption": "Otaku Pop Fes 2056 D1 Highlights",
+    "date": "2026-04-25",
+    "color": "bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400",
+    "thumbnail": "../posts/thumbnail3.jpg"
+  }
+]

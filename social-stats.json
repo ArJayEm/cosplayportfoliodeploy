@@ -4,6 +4,7 @@
       "href": "https://instagram.com/arjay__em",
       "platform": "Instagram",
       "username": "arjay__em",
+      "color": "bg-blue-600",
       "followers": 3691,
       "toDisplay": true
     },
@@ -12,6 +13,7 @@
       "href": "https://facebook.com/arjayem.cos",
       "platform": "Facebook",
       "username": "arjayem.cos",
+      "color": "bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400",
       "followers": 2301,
       "toDisplay": true
     },
@@ -20,7 +22,7 @@
       "href": "https://tiktok.com/@arjayem.cos",
       "platform": "TikTok",
       "username": "arjayem.cos",
-      "color": "hover:text-black",
+      "color": "bg-gradient-to-br from-black-500 to-white-500",
       "followers": 6436,
       "toDisplay": true
     },
