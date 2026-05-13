@@ -1,8 +1,33 @@
 [
-    { "name": "Home", "href": "#home", "toDisplay": true },
-    { "name": "About", "href": "#about", "toDisplay": true },
-    { "name": "Portfolio", "href": "#portfolio", "toDisplay": true },
-    { "name": "Events", "href": "#events", "toDisplay": true },
-    { "name": "Collabs", "href": "/collabs", "toDisplay": true, "isRoute": true },
-    { "name": "Contact", "href": "#contact", "toDisplay": true }
-  ]
+  {
+    "name": "Home",
+    "href": "#home",
+    "toDisplay": true
+  },
+  {
+    "name": "About",
+    "href": "#about",
+    "toDisplay": true
+  },
+  {
+    "name": "Portfolio",
+    "href": "#portfolio",
+    "toDisplay": true
+  },
+  {
+    "name": "Events",
+    "href": "#events",
+    "toDisplay": true
+  },
+  {
+    "name": "Collabs",
+    "href": "/collabs",
+    "toDisplay": false,
+    "isRoute": true
+  },
+  {
+    "name": "Contact",
+    "href": "#contact",
+    "toDisplay": true
+  }
+]
