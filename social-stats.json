@@ -1,12 +1,45 @@
 [
   {
-    "id": 1,
-    "href": "https://instagram.com/arjay__em",
-    "platform": "Instagram",
-    "username": "arjay__em",
-    "color": "bg-blue-600",
-    "followers": 3691,
-    "toDisplay": true,
-    "lastUpdated": "2026-05-13 05:16 PM"
-  }
+      "id": 1,
+      "href": "https://instagram.com/arjay__em",
+      "platform": "Instagram",
+      "username": "arjay__em",
+      "color": "bg-blue-600",
+      "followers": 3716,
+      "toDisplay": true
+    },
+    {
+      "id": 2,
+      "href": "https://facebook.com/arjayem.cos",
+      "platform": "Facebook",
+      "username": "arjayem.cos",
+      "color": "bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400",
+      "followers": 2307,
+      "toDisplay": true
+    },
+    {
+      "id": 3,
+      "href": "https://tiktok.com/@arjayem.cos",
+      "platform": "TikTok",
+      "username": "arjayem.cos",
+      "color": "bg-gradient-to-br from-black-500 to-white-500",
+      "followers": 6454,
+      "toDisplay": true
+    },
+    {
+      "id": 4,
+      "href": "https://twitter.com/arjayem.cosplay",
+      "platform": "Twitter",
+      "username": "arjayem.cosplay",
+      "followers": 1200,
+      "toDisplay": false
+    },
+    {
+      "id": 5,
+      "href": "https://youtube.com/@arjayem.cosplay",
+      "platform": "YouTube",
+      "username": "arjayem.cosplay",
+      "followers": 500,
+      "toDisplay": false
+    }
 ]
