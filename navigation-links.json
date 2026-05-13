@@ -1,8 +1,39 @@
 [
-    { "id": 1, "name": "Home", "href": "#home", "toDisplay": true },
-    { "id": 2, "name": "About", "href": "#about", "toDisplay": true },
-    { "id": 3, "name": "Portfolio", "href": "#portfolio", "toDisplay": true },
-    { "id": 4, "name": "Events", "href": "#events", "toDisplay": true },
-    { "id": 5, "name": "Collabs", "href": "/collabs", "toDisplay": true, "isRoute": false },
-    { "id": 6, "name": "Contact", "href": "#contact", "toDisplay": true }
-  ]
+  {
+    "id": 1,
+    "name": "Home",
+    "href": "#home",
+    "toDisplay": true
+  },
+  {
+    "id": 2,
+    "name": "About",
+    "href": "#about",
+    "toDisplay": true
+  },
+  {
+    "id": 3,
+    "name": "Portfolio",
+    "href": "#portfolio",
+    "toDisplay": true
+  },
+  {
+    "id": 4,
+    "name": "Events",
+    "href": "#events",
+    "toDisplay": true
+  },
+  {
+    "id": 5,
+    "name": "Collabs",
+    "href": "/collabs",
+    "toDisplay": false,
+    "isRoute": false
+  },
+  {
+    "id": 6,
+    "name": "Contact",
+    "href": "#contact",
+    "toDisplay": true
+  }
+]
