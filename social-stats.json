@@ -5,7 +5,7 @@
     "platform": "Instagram",
     "username": "arjay__em",
     "color": "bg-blue-600",
-    "followers": 3725,
+    "followers": 5069,
     "toDisplay": true,
     "lastUpdated": "2026-05-15 04:38 PM"
   },
@@ -15,7 +15,7 @@
     "platform": "Facebook",
     "username": "arjayem.cos",
     "color": "bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400",
-    "followers": 2315,
+    "followers": 2400,
     "toDisplay": true,
     "lastUpdated": "2026-05-15 04:38 PM"
   },
@@ -25,16 +25,16 @@
     "platform": "TikTok",
     "username": "arjayem.cos",
     "color": "bg-gradient-to-br from-black-500 to-white-500",
-    "followers": 6474,
+    "followers": 6973,
     "toDisplay": true,
     "lastUpdated": "2026-05-15 04:38 PM"
   },
   {
     "id": 4,
     "href": "https://twitter.com/arjayem.cosplay",
-    "platform": "Twitter",
+    "platform": "X (formerly Twitter)",
     "username": "arjayem.cosplay",
-    "followers": 1200,
+    "followers": 4,
     "toDisplay": false,
     "lastUpdated": "2026-05-15 04:38 PM"
   },
@@ -43,7 +43,7 @@
     "href": "https://youtube.com/@arjayem.cosplay",
     "platform": "YouTube",
     "username": "arjayem.cosplay",
-    "followers": 500,
+    "followers": 45555,
     "toDisplay": false,
     "lastUpdated": "2026-05-15 04:38 PM"
   }
