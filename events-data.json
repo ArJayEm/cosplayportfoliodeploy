@@ -161,5 +161,21 @@
     "eventSite": "https://www.howlersfestival.com",
     "images": ["howlers-4.jpg"],
     "toDisplay": false
+  },
+  {
+    "id": 11,
+    "date": "JUNE 26, 2026",
+    "year": 2026,
+    "title": "TOMORO Coffee x Frieren Collab Event",
+    "location": "Amberland Plaza, Pasig City",
+    "locationLink": "https://share.google/z0vsBaKKBK7JiLBZx",
+    "role": "Featured Cosplayer",
+    "brand": "TOMORO Coffee Philippines",
+    "brandLogo": "/logos/tomoro-coffee-ph.png",
+    "locationLogo": "",
+    "description": "A Healing Journey Series collaboration event.",
+    "ticketsUrl": "",
+    "eventSite": "",
+    "images": ["tomoro-coffee-amberland.png","a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg", "g.jpg", "h.jpg"]
   }
 ]

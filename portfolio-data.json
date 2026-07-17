@@ -306,5 +306,49 @@
     "photographer": "N/A",
     "photogPage": "",
     "event": "Cosplay Mania 2018 D2, SMX Convention Center, Pasay City"
+  },
+  {
+    "id": 30,
+    "image": "/c-disappearing-guy.png",
+    "title": "Disappearing Guy",
+    "skillsApplied": "Sewing",
+    "series": "The Amazing Digital Circus",
+    "year": 2026,
+    "photographer": "Parchey",
+    "photogPage": "https://www.facebook.com/parch3y/",
+    "event": "TADC Photoshoot, Sashinko Studio, QC"
+  },
+  {
+    "id": 31,
+    "image": "/d-rimuru.png",
+    "title": "Rimuru Tempest",
+    "skillsApplied": "Makeup, Wig Styling",
+    "series": "That Time I Got Reincarnated as a Slime",
+    "year": 2026,
+    "photographer": "",
+    "photogPage": "",
+    "event": "Tensura Movie Premiere, SM North EDSA, QC"
+  },
+  {
+    "id": 32,
+    "image": "/e-disappearing-guy.JPG",
+    "title": "Disappearing Guy",
+    "skillsApplied": "Sewing",
+    "series": "The Amazing Digital Circus",
+    "year": 2026,
+    "photographer": "Parchey",
+    "photogPage": "https://www.facebook.com/parch3y/",
+    "event": "TADC Noir Photoshoot, QC"
+  },
+  {
+    "id": 33,
+    "image": "/f-tokoyami.jpg",
+    "title": "Fumikage Tokoyami",
+    "skillsApplied": "Crafting",
+    "series": "My Hero Academia",
+    "year": 2026,
+    "photographer": "Raw Shots Studio",
+    "photogPage": "https://www.facebook.com/share/14kyuiqF5uM/",
+    "event": "MHA Timeskip CG Photoshoot, Gala Food Park, Pasay City"
   }
 ]
