@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/a-neji.jpg",
+    "image": "a-neji.jpg",
     "title": "Hyuga Neji",
     "skillsApplied": "Sewing, Makeup",
     "series": "Naruto Shippuden",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "image": "/b-waterboy.jpg",
+    "image": "b-waterboy.jpg",
     "title": "Herman aka Waterboy",
     "skillsApplied": "Sewing",
     "series": "Dispatch",
@@ -23,7 +23,7 @@
   },
   {
     "id": 6,
-    "image": "/portfolio-6.jpg",
+    "image": "portfolio-6.jpg",
     "title": "U-1146 aka White Blood Cell",
     "skillsApplied": "Sewing (hand)",
     "series": "Cells at Work",
@@ -34,7 +34,7 @@
   },
   {
     "id": 7,
-    "image": "/portfolio-7.JPG",
+    "image": "portfolio-7.JPG",
     "title": "Haruichi Izumo",
     "skillsApplied": "Sewing",
     "series": "Kaiju No. 8",
@@ -45,7 +45,7 @@
   },
   {
     "id": 3,
-    "image": "/portfolio-2.JPG",
+    "image": "portfolio-2.JPG",
     "title": "Mystery Saja",
     "skillsApplied": "Sewing",
     "series": "Saja Boys, Kpop Demon Hunters",
@@ -56,7 +56,7 @@
   },
   {
     "id": 4,
-    "image": "/portfolio-3.png",
+    "image": "portfolio-3.png",
     "title": "Himmel the Hero",
     "skillsApplied": "Photo Manipulation",
     "series": "Frieren: Beyond Journey's End",
@@ -67,7 +67,7 @@
   },
   {
     "id": 5,
-    "image": "/portfolio-4.jpg",
+    "image": "portfolio-4.jpg",
     "title": "Okarun",
     "skillsApplied": "Prop Making",
     "series": "Dandadan",
@@ -78,7 +78,7 @@
   },
   {
     "id": 9,
-    "image": "/b-haruta.jpg",
+    "image": "b-haruta.jpg",
     "title": "Haruta Shigemo",
     "skillsApplied": "Sewing, Makeup",
     "series": "Jujutsu Kaisen",
@@ -89,7 +89,7 @@
   },
   {
     "id": 10,
-    "image": "/c-loki.jpg",
+    "image": "c-loki.jpg",
     "title": "Loki Laufeyson, OC",
     "skillsApplied": "Sewing,  Prop Making",
     "series": "Marvel Cinematic Universe",
@@ -100,7 +100,7 @@
   },
   {
     "id": 11,
-    "image": "/d-suneater.jpg",
+    "image": "d-suneater.jpg",
     "title": "Tamaki Amajiki (Fantasy AU)",
     "skillsApplied": "Sewing, Original Concept",
     "series": "My Hero Academia",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "image": "/e-corio.png",
+    "image": "e-corio.png",
     "title": "Coriolanus Snow",
     "skillsApplied": "Prop Making, Photo Manipulation",
     "series": "The Hunger Games, the Ballad of Songbirds and Snakes",
@@ -122,7 +122,7 @@
   },
   {
     "id": 13,
-    "image": "/f-cypher.JPG",
+    "image": "f-cypher.JPG",
     "title": "Cypher",
     "skillsApplied": "Sewing",
     "series": "Valorant",
@@ -133,7 +133,7 @@
   },
   {
     "id": 14,
-    "image": "/g-joker.jpg",
+    "image": "g-joker.jpg",
     "title": "Arthur Fleck aka the Joker",
     "skillsApplied": "Makeup",
     "series": "DCU",
@@ -144,7 +144,7 @@
   },
   {
     "id": 15,
-    "image": "/a-aki.jpg",
+    "image": "a-aki.jpg",
     "title": "Aki HAyakawa",
     "skillsApplied": "Makeup",
     "series": "Chainsaw Man",
@@ -155,7 +155,7 @@
   },
   {
     "id": 16,
-    "image": "/a-tanjiro.jpeg",
+    "image": "a-tanjiro.jpeg",
     "title": "Kamado Tanjiro",
     "skillsApplied": "Prop Making, Makeup",
     "series": "Kimetsu no Yaiba",
@@ -166,7 +166,7 @@
   },
   {
     "id": 17,
-    "image": "/b-sanji.jpg",
+    "image": "b-sanji.jpg",
     "title": "Vinsmoke Sanji",
     "skillsApplied": "Makeup",
     "series": "One Piece",
@@ -177,7 +177,7 @@
   },
   {
     "id": 18,
-    "image": "/c-galghali.jpg",
+    "image": "c-galghali.jpg",
     "title": "Galghali aka Violence Fiend",
     "skillsApplied": "Prop Making",
     "series": "Chainsaw Man",
@@ -188,7 +188,7 @@
   },
   {
     "id": 19,
-    "image": "/c-zhongli.jpeg",
+    "image": "c-zhongli.jpeg",
     "title": "Zhongli",
     "skillsApplied": "Makeup",
     "series": "Genshin Impact (Hanfu Version)",
@@ -199,7 +199,7 @@
   },
   {
     "id": 20,
-    "image": "/c-wednesday.jpeg",
+    "image": "c-wednesday.jpeg",
     "title": "Wednesday Addams",
     "skillsApplied": "Sewing, Makeup",
     "series": "Wednesday, Netflix",
@@ -210,7 +210,7 @@
   },
   {
     "id": 21,
-    "image": "/d-suneater.jpeg",
+    "image": "d-suneater.jpeg",
     "title": "Tamaki Amajiki aka Suneater",
     "skillsApplied": "Sewing, Makeup",
     "series": "My Hero Academia",
@@ -221,7 +221,7 @@
   },
   {
     "id": 22,
-    "image": "/e-loki.jpeg",
+    "image": "e-loki.jpeg",
     "title": "Loki Laufeyson",
     "skillsApplied": "Sewing, Prop Making, Makeup",
     "series": "Loki S2, MCU",
@@ -232,7 +232,7 @@
   },
   {
     "id": 23,
-    "image": "/a-strange.jpg",
+    "image": "a-strange.jpg",
     "title": "Defender Strange",
     "skillsApplied": "Sewing",
     "series": "Doctor Strange and the Multiverse of Madness, MCU",
@@ -243,7 +243,7 @@
   },
   {
     "id": 24,
-    "image": "/b-loki.jpg",
+    "image": "b-loki.jpg",
     "title": "Void Loki",
     "skillsApplied": "Prop Making",
     "series": "Loki S1, MCU",
@@ -254,7 +254,7 @@
   },
   {
     "id": 25,
-    "image": "/c-002.jpg",
+    "image": "c-002.jpg",
     "title": "Zero Two - 002",
     "skillsApplied": "Makeup",
     "series": "Darling in the Franxx",
@@ -265,7 +265,7 @@
   },
   {
     "id": 26,
-    "image": "/d-loki.jpeg",
+    "image": "d-loki.jpeg",
     "title": "TVA Agent Loki",
     "skillsApplied": "Prop Making",
     "series": "Loki S1, MCU",
@@ -276,7 +276,7 @@
   },
   {
     "id": 27,
-    "image": "/a-loki.jpeg",
+    "image": "a-loki.jpeg",
     "title": "Loki Laufeyson",
     "skillsApplied": "Prop Making",
     "series": "Loki S1, Marvel Cinematic Universe",
@@ -287,7 +287,7 @@
   },
   {
     "id": 28,
-    "image": "/a-spidey.jpg",
+    "image": "a-spidey.jpg",
     "title": "Spider-Man aka Nightmonkey",
     "skillsApplied": "Sewing",
     "series": "Spider-man Far From Home, MCU",
@@ -298,7 +298,7 @@
   },
   {
     "id": 29,
-    "image": "/a-deku.jpg",
+    "image": "a-deku.jpg",
     "title": "Midoriya Izuku aka Deku",
     "skillsApplied": "Sewing (hand)",
     "series": "My Hero Academia",
@@ -309,7 +309,7 @@
   },
   {
     "id": 30,
-    "image": "/c-disappearing-guy.png",
+    "image": "c-disappearing-guy.png",
     "title": "Disappearing Guy",
     "skillsApplied": "Sewing",
     "series": "The Amazing Digital Circus",
@@ -320,7 +320,7 @@
   },
   {
     "id": 31,
-    "image": "/d-rimuru.png",
+    "image": "d-rimuru.png",
     "title": "Rimuru Tempest",
     "skillsApplied": "Makeup, Wig Styling",
     "series": "That Time I Got Reincarnated as a Slime",
@@ -331,7 +331,7 @@
   },
   {
     "id": 32,
-    "image": "/e-disappearing-guy.JPG",
+    "image": "e-disappearing-guy.JPG",
     "title": "Disappearing Guy",
     "skillsApplied": "Sewing",
     "series": "The Amazing Digital Circus",
@@ -342,7 +342,7 @@
   },
   {
     "id": 33,
-    "image": "/f-tokoyami.jpg",
+    "image": "f-tokoyami.jpg",
     "title": "Fumikage Tokoyami",
     "skillsApplied": "Crafting",
     "series": "My Hero Academia Timeskip - More 170+1",
