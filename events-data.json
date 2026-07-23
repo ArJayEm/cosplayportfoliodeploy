@@ -12,15 +12,7 @@
     "brandLogo": "/logos/comic-odyssey.png",
     "locationLogo": "/logos/robinsons-galleria.webp",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
-    "images": [
-      "a.jpeg",
-      "b.jpg",
-      "c.jpg",
-      "d.jpg",
-      "e.jpg",
-      "f.jpg"
-    ],
-    "toDisplay": true
+    "images": ["a.jpeg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg"]
   },
   {
     "id": 2,
@@ -34,12 +26,7 @@
     "brand": "Fully Booked",
     "brandLogo": "/logos/fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
-    "images": [
-      "a.jpeg",
-      "b.jpg",
-      "c.jpg"
-    ],
-    "toDisplay": true
+    "images": ["a.jpeg", "b.jpg", "c.jpg"]
   },
   {
     "id": 3,
@@ -54,11 +41,7 @@
     "brandLogo": "/logos/fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
     "eventSite": "https://www.facebook.com/share/19tAb8Fws5/",
-    "images": [
-      "a.jpg",
-      "b.jpg"
-    ],
-    "toDisplay": true
+    "images": ["a.jpg", "b.jpg"]
   },
   {
     "id": 4,
@@ -83,8 +66,7 @@
       "stage-3.jpg",
       "photoshoot-1.jpg",
       "photoshoot-2.jpg"
-    ],
-    "toDisplay": true
+    ]
   },
   {
     "id": 5,
@@ -106,8 +88,7 @@
       "c-huntrix.jpg",
       "d-saja-meet-and-greet.jpg",
       "e-edit.jpg"
-    ],
-    "toDisplay": true
+    ]
   },
   {
     "id": 6,
@@ -123,15 +104,7 @@
     "locationLogo": "/logos/mitsukoshi.jpeg",
     "description": "A unique event held in a Japanese themed mall in partnership with CO the Collectibles Store, celebrating the release of the \"KAYOU\" figure, featuring exclusive merchandise and a cosplay showcase.",
     "eventSite": "https://www.facebook.com/share/18ePsFxC3C/",
-    "images": [
-      "a.jpg",
-      "b.jpg",
-      "c.jpeg",
-      "d.jpeg",
-      "e.jpg",
-      "f.jpg"
-    ],
-    "toDisplay": true
+    "images": ["a.jpg", "b.jpg", "c.jpeg", "d.jpeg", "e.jpg", "f.jpg"]
   },
   {
     "id": 7,
@@ -146,15 +119,7 @@
     "brandLogo": "/logos/warner-bros.png",
     "locationLogo": "/logos/sm-cinema-megamall.jpg",
     "description": "A special screening of the highly anticipated movie adaptation of the popular anime series Cells at Work, featuring a cosplay showcase and meet-and-greet with the cast.",
-    "images": [
-      "a.jpg",
-      "b.jpg",
-      "c.jpeg",
-      "d.jpg",
-      "e.jpg",
-      "f.jpg"
-    ],
-    "toDisplay": true
+    "images": ["a.jpg", "b.jpg", "c.jpeg", "d.jpg", "e.jpg", "f.jpg"]
   },
   {
     "id": 8,
@@ -170,15 +135,7 @@
     "locationLogo": "/logos/festival-mall.jpeg",
     "description": "An event celebrating all things hobby, from anime and manga to gaming and collectibles, featuring cosplay, competitions, and exclusive merchandise.",
     "eventSite": "https://www.facebook.com/philippinehobbycon/",
-    "images": [
-      "a.jpg",
-      "b.jpg",
-      "c.jpg",
-      "d.jpg",
-      "e.jpg",
-      "f.jpg"
-    ],
-    "toDisplay": true
+    "images": ["a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg"]
   },
   {
     "id": 9,
@@ -195,13 +152,7 @@
     "description": "A Celebration of JAPAN's Anime, Games, Cosplay and Music!",
     "ticketsUrl": "https://tickets.otakupopfes.com",
     "eventSite": "https://www.otakupopfes.com",
-    "images": [
-      "a.jpg",
-      "c.jpg",
-      "d.png",
-      "e.jpg"
-    ],
-    "toDisplay": true
+    "images": ["a.jpg", "c.jpg", "d.png", "e.jpg"]
   },
   {
     "id": 10,
@@ -218,14 +169,12 @@
     "description": "A vibrant celebration of anime, games, and cosplay with exclusive merchandise and performances.",
     "ticketsUrl": "https://linker.liked.com/qv8Ul",
     "eventSite": "https://www.howlersfestival.com",
-    "images": [
-      "howlers-4.jpg"
-    ],
+    "images": ["howlers-4.jpg"],
     "toDisplay": false
   },
   {
     "id": 11,
-    "date": "JUNE 26, 2026",
+    "date": "JULY 3, 2026",
     "year": 2026,
     "title": "TOMORO Coffee - Amberland Grand Opening",
     "location": "Amberland Plaza, Pasig City",
@@ -238,17 +187,40 @@
     "description": "A Healing Journey Series collaboration event.",
     "ticketsUrl": "",
     "eventSite": "",
-    "images": [
-      "tomoro-coffee-amberland.png",
-      "a.jpg",
-      "b.jpg",
-      "c.jpg",
-      "d.jpg",
-      "e.jpg",
-      "f.jpg",
-      "g.jpg",
-      "h.jpg"
-    ],
-    "toDisplay": true
+    "images": ["tomoro-coffee-amberland.png","a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg", "g.jpg", "h.jpg"]
+  },
+  {
+    "id": 12,
+    "date": "JULY 26, 2025",
+    "year": 2025,
+    "title": "Marvel's Fantastic Four Movie Premiere",
+    "location": "Central Square Cinema, BGC",
+    "locationLink": "https://maps.app.goo.gl/Re2gGCveQVaWruC88",
+    "roles": ["Featured Cosplayer"],
+    "cosplays": ["God of Stories Loki"],
+    "brand": "Globe",
+    "brandLogo": "/logos/globe.png",
+    "locationLogo": "/logos/central-square-cinema.jpg",
+    "description": "A special screening of the highly anticipated Marvel's Fantastic Four movie, featuring a cosplay showcase and giveaways.",
+    "ticketsUrl": "",
+    "eventSite": "",
+    "images": ["a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg", "g.jpg", "h.jpg"]
+  },
+  {
+    "id": 13,
+    "date": "JUNE 26, 2026",
+    "year": 2026,
+    "title": "Nescafe: FUSION",
+    "location": "Filinvest City Events Grounds, Alabang, Muntinlupa City",
+    "locationLink": "https://maps.app.goo.gl/fzWeUriZojRgvjAr6",
+    "roles": ["Content Creator"],
+    "cosplays": [],
+    "brand": "Nescafe",
+    "brandLogo": "/logos/fusion.jpg",
+    "locationLogo": "/logos/filinvest.jfif",
+    "description": "Gisingin ang mundo, the Philippines Music Festival",
+    "ticketsUrl": "https://www.ticketmelon.com/praxis/FusionThePhilippinesMusicFestival",
+    "eventSite": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwikn-e4juiVAxWrplYBHaJDHEsQFnoECBkQAQ&url=https%3A%2F%2Fwww.facebook.com%2Ffusionphilippinemusicfestival%2F&usg=AOvVaw2Zh0anZzJNmhmGuPRpf9mv&opi=89978449",
+    "images": ["nescafe-fusion-2026.jfif","a.jpg", "b.jpg", "c.jpg"]
   }
 ]
