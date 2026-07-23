@@ -5,9 +5,9 @@
     "platform": "Instagram",
     "username": "arjay__em",
     "color": "bg-blue-600",
-    "followers": 5229,
+    "followers": 5279,
     "toDisplay": true,
-    "lastUpdated": "2026-07-17 02:40 PM"
+    "lastUpdated": "2026-07-23 07:01 PM"
   },
   {
     "id": 2,
@@ -15,9 +15,9 @@
     "platform": "Facebook",
     "username": "arjayem.cos",
     "color": "bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400",
-    "followers": 2427,
+    "followers": 2445,
     "toDisplay": true,
-    "lastUpdated": "2026-07-17 02:40 PM"
+    "lastUpdated": "2026-07-23 07:01 PM"
   },
   {
     "id": 3,
@@ -25,9 +25,9 @@
     "platform": "TikTok",
     "username": "arjayem.cos",
     "color": "bg-gradient-to-br from-black-500 to-white-500",
-    "followers": 7071,
+    "followers": 7096,
     "toDisplay": true,
-    "lastUpdated": "2026-07-17 02:40 PM"
+    "lastUpdated": "2026-07-23 07:01 PM"
   },
   {
     "id": 4,
@@ -36,7 +36,7 @@
     "username": "arjayem.cosplay",
     "followers": 4,
     "toDisplay": false,
-    "lastUpdated": "2026-07-17 02:40 PM"
+    "lastUpdated": "2026-07-23 07:01 PM"
   },
   {
     "id": 5,
@@ -45,6 +45,6 @@
     "username": "arjayem.cosplay",
     "followers": 45555,
     "toDisplay": false,
-    "lastUpdated": "2026-07-17 02:40 PM"
+    "lastUpdated": "2026-07-23 07:01 PM"
   }
 ]
