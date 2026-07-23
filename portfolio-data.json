@@ -382,5 +382,29 @@
     "event": "MHA Timeskip CG Photoshoot, Gala Food Park, Pasay City",
     "image": "/f-tokoyami.jpg",
     "isFeatured": true
+  },
+  {
+    "toDisplay": true,
+    "id": 34,
+    "image": "g-august_stilza.JPG",
+    "title": "August Stilza",
+    "skillsApplied": "Sewing",
+    "series": "Gachiakuta",
+    "year": 2026,
+    "photographer": "Subject: Troubadour",
+    "photogPage": "https://www.facebook.com/share/1LPLfaPZri/",
+    "event": "Pre-Tanabata 2026 D2"
+  },
+  {
+    "toDisplay": true,
+    "id": 35,
+    "image": "h-Stark_Waltz.jpg",
+    "title": "Stark (Waltz version)",
+    "skillsApplied": "Sewing,Wig-Restyling,Make-up",
+    "series": "Frieren: Beyond Journey's End",
+    "year": 2026,
+    "photographer": "",
+    "photogPage": "",
+    "event": "Otaku Pop Fes 2026 D2"
   }
 ]
