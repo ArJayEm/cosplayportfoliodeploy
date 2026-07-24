@@ -8,6 +8,7 @@
     "photographer": "Fotoreno",
     "photogPage": "https://www.facebook.com/fotorenocosplay",
     "event": "Hobby Con 2026 D1",
+    "location": "Festival Mall, Alabang",
     "image": "/a-neji.jpg",
     "isFeatured": true
   },
@@ -20,6 +21,7 @@
     "photographer": "Aiel Photography",
     "photogPage": "https://www.facebook.com/share/1GVFv7HuqR/",
     "event": "Hobby Con 2026 D2",
+    "location": "Festival Mall, Alabang",
     "image": "/b-waterboy.jpg",
     "isFeatured": true
   },
@@ -31,8 +33,9 @@
     "year": 2025,
     "photographer": "Yunxi Photography",
     "photogPage": "https://www.facebook.com/yunxiphotographyph",
-    "event": "Toy Mania 2025 D1, Ayala Malls Manila Bay",
-    "image": "/portfolio-6.jpg",
+    "event": "Toy Mania 2025 D1",
+    "image": "/portfolio-6.jpg",    
+    "location": "Ayala Malls Manila Bay",
     "isFeatured": true
   },
   {
@@ -44,6 +47,7 @@
     "photographer": "Eyestrain Photoworks",
     "photogPage": "https://www.facebook.com/eyestrainphotoworks",
     "event": "Kaiju No. 8 CG Photoshoot",
+    "location": "Marikina City",
     "image": "/portfolio-7.JPG",
     "isFeatured": true
   },
@@ -55,7 +59,8 @@
     "year": 2025,
     "photographer": "",
     "photogPage": "",
-    "event": "Honmoon Halloween Party 2025 D1, Greenfield District",
+    "event": "Honmoon Halloween Party 2025 D1",
+    "location": "Greenfield District",
     "image": "/portfolio-2.JPG",
     "isFeatured": true
   },
@@ -386,7 +391,7 @@
   {
     "toDisplay": true,
     "id": 34,
-    "image": "g-august_stilza.JPG",
+    "image": "/g-august_stilza.JPG",
     "title": "August Stilza",
     "skillsApplied": "Sewing",
     "series": "Gachiakuta",
@@ -398,7 +403,7 @@
   {
     "toDisplay": true,
     "id": 35,
-    "image": "h-Stark_Waltz.jpg",
+    "image": "/h-Stark_Waltz.jpg",
     "title": "Stark (Waltz version)",
     "skillsApplied": "Sewing,Wig-Restyling,Make-up",
     "series": "Frieren: Beyond Journey's End",

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "title": "Hyuga Neji",
+    "images": ["neji-a1.jpg", "neji-a2.jpg"],
+    "description": "Hyuga Neji from Naruto Shippuden in full cosplay detail.",
+    "category": "Portrait",
+    "sizes": [
+      { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
+      { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Waterboy",
+    "images": [
+        "waterboy-d1.jpg", 
+        "waterboy-d2.jpg", 
+        "waterboy-d3.jpg", 
+        "waterboy-d4.jpg", 
+        "waterboy-d5.jpg", 
+        "waterboy-d6.jpg", 
+        "waterboy-d7.jpg",
+        "waterboy-c1.jpg", 
+        "waterboy-b1.jpg", 
+        "waterboy-b2.jpg"],
+    "description": "Herman aka Waterboy from Dispatch in character.",
+    "category": "Portrait",
+    "sizes": [
+      { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
+      { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "White Blood Cell",
+    "images": ["wbc-a1.jpg", "wbc-a2.jpg"],
+    "description": "U-1146 aka White Blood Cell from Cells at Work.",
+    "category": "Portrait",
+    "sizes": [
+      { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
+      { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Himmel the Hero",
+    "images": ["himmel-a1.jpg", "himmel-a2.jpg", "himmel-b1.png"],
+    "description": "Himmel the Hero from Frieren: Beyond Journey's End.",
+    "category": "Portrait",
+    "sizes": [
+      { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
+      { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Okarun",
+    "images": ["okarun-a1.jpg"],
+    "description": "Okarun from Dandadan in dynamic action pose.",
+    "category": "Action",
+    "sizes": [
+      { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
+      { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Loki Laufeyson",
+    "images": ["loki-a1.png", "loki-a2.png", "loki-a3.png", "loki-b1.png"],
+    "description": "Loki Laufeyson OC from Marvel Cinematic Universe.",
+    "category": "Portrait",
+    "sizes": [
+      { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
+      { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
+    ]
+  }
+]
