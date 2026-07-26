@@ -8,7 +8,7 @@
     "sizes": [
       { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
       { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
-      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": true },
       { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
     ]
   },
@@ -31,7 +31,7 @@
     "sizes": [
       { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
       { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
-      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": true },
       { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
     ]
   },
@@ -44,7 +44,7 @@
     "sizes": [
       { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
       { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
-      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": true },
       { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
     ]
   },
@@ -57,7 +57,7 @@
     "sizes": [
       { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
       { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
-      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": true },
       { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
     ]
   },
@@ -70,7 +70,7 @@
     "sizes": [
       { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
       { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
-      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": true },
       { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
     ]
   },
@@ -83,7 +83,7 @@
     "sizes": [
       { "label": "3R", "price": 50, "dimensions": "3.5\" x 5\"" },
       { "label": "4R", "price": 80, "dimensions": "4\" x 6\"" },
-      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": false },
+      { "label": "5R", "price": 120, "dimensions": "5\" x 7\"", "isInStock": true },
       { "label": "A4", "price": 150, "dimensions": "8.27\" x 11.69\"" }
     ]
   }
