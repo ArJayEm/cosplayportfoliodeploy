@@ -3,87 +3,287 @@
     "id": "1",
     "title": "Hyuga Neji",
     "images": [
-      { "src": "neji-a1.jpg", "dateAdded": "2026-07-24", "isFeatured": true },
-      { "src": "neji-a2.jpg", "dateAdded": "2026-07-24" }
+      {
+        "src": "neji-a1.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "neji-a2.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "neji-b1.jpg",
+        "dateAdded": "2026-07-28",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "FB IMG 1770641740761",
+        "_printItemId": "1"
+      }
     ],
     "description": "Hyuga Neji from Naruto Shippuden in full cosplay detail.",
     "category": "Portrait",
-    "dateAdded": "2026-07-24"
+    "dateAdded": "2026-07-24",
+    "toDisplay": true
   },
   {
     "id": "2",
     "title": "Herman aka Waterboy",
     "images": [
-      { "src": "waterboy-d1.jpg", "dateAdded": "2026-07-24", "isFeatured": true },
-      { "src": "waterboy-d2.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-d3.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-d4.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-d5.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-d6.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-d7.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-c1.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-b1.jpg", "dateAdded": "2026-07-24" },
-      { "src": "waterboy-b2.jpg", "dateAdded": "2026-07-24" }
+      {
+        "src": "waterboy-d1.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-d2.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-d3.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-d4.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-d5.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-d6.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-d7.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-c1.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-b1.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-b2.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "waterboy-a1.jpg",
+        "dateAdded": "2026-07-28",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "Red Dianon Photography FB IMG 1770704460505",
+        "_printItemId": "2"
+      },
+      {
+        "src": "waterboy-e1.jpg",
+        "dateAdded": "2026-07-28",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "Studio shimeji FB IMG 1770710205737",
+        "_file": {},
+        "_printItemId": "2"
+      }
     ],
     "description": "Herman aka Waterboy from Dispatch in character.",
     "category": "Portrait",
-    "dateAdded": "2026-07-24"
+    "dateAdded": "2026-07-24",
+    "toDisplay": true
   },
   {
     "id": "3",
     "title": "White Blood Cell",
     "images": [
-      { "src": "wbc-a1.jpg", "dateAdded": "2026-07-24", "isFeatured": true },
-      { "src": "wbc-a2.jpg", "dateAdded": "2026-07-24" }
+      {
+        "src": "wbc-a1.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "wbc-a2.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      }
     ],
     "description": "U-1146 aka White Blood Cell from Cells at Work.",
     "category": "Portrait",
-    "dateAdded": "2026-07-24"
+    "dateAdded": "2026-07-24",
+    "toDisplay": true
   },
   {
     "id": "4",
     "title": "Himmel the Hero",
     "images": [
-      { "src": "himmel-a1.jpg", "dateAdded": "2026-07-24" },
-      { "src": "himmel-a2.jpg", "dateAdded": "2026-07-24" },
-      { "src": "himmel-b1.png", "dateAdded": "2026-07-24", "isFeatured": true }
+      {
+        "src": "himmel-a1.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "himmel-a2.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "himmel-b1.png",
+        "dateAdded": "2026-07-24",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      }
     ],
     "description": "Himmel the Hero from Frieren: Beyond Journey's End.",
     "category": "Portrait",
-    "dateAdded": "2026-07-24"
+    "dateAdded": "2026-07-24",
+    "toDisplay": true
   },
   {
     "id": "5",
     "title": "Okarun",
     "images": [
-      { "src": "okarun-a1.jpg", "dateAdded": "2026-07-24" }
+      {
+        "src": "okarun-a1.jpg",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      }
     ],
     "description": "Okarun from Dandadan in in his normal form.",
     "category": "Action",
-    "dateAdded": "2026-07-24"
+    "dateAdded": "2026-07-24",
+    "toDisplay": true
   },
   {
     "id": "6",
     "title": "Loki Laufeyson",
     "images": [
-      { "src": "loki-a1.png", "dateAdded": "2026-07-24" },
-      { "src": "loki-a2.png", "dateAdded": "2026-07-24" },
-      { "src": "loki-a3.png", "dateAdded": "2026-07-24", "isFeatured": true },
-      { "src": "loki-b1.png", "dateAdded": "2026-07-24" }
+      {
+        "src": "loki-a1.png",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "loki-a2.png",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "loki-a3.png",
+        "dateAdded": "2026-07-24",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "loki-b1.png",
+        "dateAdded": "2026-07-24",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      }
     ],
     "description": "Loki Laufeyson as the God of Stories from the Loki Series S2 Finale, Marvel Cinematic Universe.",
     "category": "Portrait",
-    "dateAdded": "2026-07-24"
+    "dateAdded": "2026-07-24",
+    "toDisplay": true
   },
   {
     "id": "7",
     "title": "Koichi Haimawari aka the Crawler",
     "images": [
-      { "src": "crawler-a1.png", "dateAdded": "2026-07-27", "isFeatured": true },
-      { "src": "crawler-a2.png", "dateAdded": "2026-07-27" }
+      {
+        "src": "crawler-a1.png",
+        "dateAdded": "2026-07-27",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      },
+      {
+        "src": "crawler-a2.png",
+        "dateAdded": "2026-07-27",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "_preview": ""
+      }
     ],
     "description": "Koichi Haimawari from MHA: Vigilantes",
     "category": "Portrait",
-    "dateAdded": "2026-07-27"
+    "dateAdded": "2026-07-27",
+    "toDisplay": true
   }
 ]
