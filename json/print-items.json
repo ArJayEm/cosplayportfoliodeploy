@@ -8,16 +8,14 @@
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "neji-a2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "neji-b1.jpg",
@@ -42,80 +40,70 @@
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-d2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-d3.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-d4.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-d5.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-d6.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-d7.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-c1.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-b1.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-b2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "waterboy-a1.jpg",
@@ -149,16 +137,14 @@
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "wbc-a2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       }
     ],
     "description": "U-1146 aka White Blood Cell from Cells at Work.",
@@ -175,24 +161,21 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "himmel-a2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "himmel-b1.png",
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       }
     ],
     "description": "Himmel the Hero from Frieren: Beyond Journey's End.",
@@ -209,8 +192,7 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       }
     ],
     "description": "Okarun from Dandadan in in his normal form.",
@@ -227,32 +209,28 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "loki-a2.png",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "loki-a3.png",
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "loki-b1.png",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       }
     ],
     "description": "Loki Laufeyson as the God of Stories from the Loki Series S2 Finale, Marvel Cinematic Universe.",
@@ -269,21 +247,38 @@
         "dateAdded": "2026-07-27",
         "isFeatured": true,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       },
       {
         "src": "crawler-a2.png",
         "dateAdded": "2026-07-27",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
-        "_preview": ""
+        "alt": ""
       }
     ],
     "description": "Koichi Haimawari from MHA: Vigilantes",
     "category": "Portrait",
     "dateAdded": "2026-07-27",
     "toDisplay": true
+  },
+  {
+    "toDisplay": true,
+    "id": 8,
+    "title": "Mystery Saja",
+    "images": [
+      {
+        "src": "Mystery-saja-a1.png",
+        "dateAdded": "2026-07-28",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "1000032406",
+        "_file": {},
+        "_printItemId": 8
+      }
+    ],
+    "description": "Mystery Saja from Saja Boys",
+    "category": "",
+    "dateAdded": "2026-07-28"
   }
 ]
