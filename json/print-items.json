@@ -2,67 +2,88 @@
   {
     "id": "1",
     "title": "Hyuga Neji",
-    "images": ["neji-a1.jpg", "neji-a2.jpg"],
+    "images": [
+      { "src": "neji-a1.jpg", "dateAdded": "2026-07-24", "isFeatured": true },
+      { "src": "neji-a2.jpg", "dateAdded": "2026-07-24" }
+    ],
     "description": "Hyuga Neji from Naruto Shippuden in full cosplay detail.",
     "category": "Portrait",
-    "dateAdded": "2026-24-07"
+    "dateAdded": "2026-07-24"
   },
   {
     "id": "2",
-    "title": "Waterboy",
+    "title": "Herman aka Waterboy",
     "images": [
-        "waterboy-d1.jpg", 
-        "waterboy-d2.jpg", 
-        "waterboy-d3.jpg", 
-        "waterboy-d4.jpg", 
-        "waterboy-d5.jpg", 
-        "waterboy-d6.jpg", 
-        "waterboy-d7.jpg",
-        "waterboy-c1.jpg", 
-        "waterboy-b1.jpg", 
-        "waterboy-b2.jpg"],
+      { "src": "waterboy-d1.jpg", "dateAdded": "2026-07-24", "isFeatured": true },
+      { "src": "waterboy-d2.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-d3.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-d4.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-d5.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-d6.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-d7.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-c1.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-b1.jpg", "dateAdded": "2026-07-24" },
+      { "src": "waterboy-b2.jpg", "dateAdded": "2026-07-24" }
+    ],
     "description": "Herman aka Waterboy from Dispatch in character.",
     "category": "Portrait",
-    "dateAdded": "2026-24-07"
+    "dateAdded": "2026-07-24"
   },
   {
     "id": "3",
     "title": "White Blood Cell",
-    "images": ["wbc-a1.jpg", "wbc-a2.jpg"],
+    "images": [
+      { "src": "wbc-a1.jpg", "dateAdded": "2026-07-24", "isFeatured": true },
+      { "src": "wbc-a2.jpg", "dateAdded": "2026-07-24" }
+    ],
     "description": "U-1146 aka White Blood Cell from Cells at Work.",
     "category": "Portrait",
-    "dateAdded": "2026-24-07"
+    "dateAdded": "2026-07-24"
   },
   {
     "id": "4",
     "title": "Himmel the Hero",
-    "images": ["himmel-a1.jpg", "himmel-a2.jpg", "himmel-b1.png"],
+    "images": [
+      { "src": "himmel-a1.jpg", "dateAdded": "2026-07-24" },
+      { "src": "himmel-a2.jpg", "dateAdded": "2026-07-24" },
+      { "src": "himmel-b1.png", "dateAdded": "2026-07-24", "isFeatured": true }
+    ],
     "description": "Himmel the Hero from Frieren: Beyond Journey's End.",
     "category": "Portrait",
-    "dateAdded": "2026-24-07"
+    "dateAdded": "2026-07-24"
   },
   {
     "id": "5",
     "title": "Okarun",
-    "images": ["okarun-a1.jpg"],
-    "description": "Okarun from Dandadan in dynamic action pose.",
+    "images": [
+      { "src": "okarun-a1.jpg", "dateAdded": "2026-07-24" }
+    ],
+    "description": "Okarun from Dandadan in in his normal form.",
     "category": "Action",
-    "dateAdded": "2026-24-07"
+    "dateAdded": "2026-07-24"
   },
   {
     "id": "6",
     "title": "Loki Laufeyson",
-    "images": ["loki-a1.png", "loki-a2.png", "loki-a3.png", "loki-b1.png"],
-    "description": "Loki Laufeyson OC from Marvel Cinematic Universe.",
+    "images": [
+      { "src": "loki-a1.png", "dateAdded": "2026-07-24" },
+      { "src": "loki-a2.png", "dateAdded": "2026-07-24" },
+      { "src": "loki-a3.png", "dateAdded": "2026-07-24", "isFeatured": true },
+      { "src": "loki-b1.png", "dateAdded": "2026-07-24" }
+    ],
+    "description": "Loki Laufeyson as the God of Stories from the Loki Series S2 Finale, Marvel Cinematic Universe.",
     "category": "Portrait",
-    "dateAdded": "2026-24-07"
+    "dateAdded": "2026-07-24"
   },
   {
     "id": "7",
-    "title": "Koichi Haimawari aka the Cralwer",
-    "images": ["crawler-a1.png", "crawler-a2.png"],
+    "title": "Koichi Haimawari aka the Crawler",
+    "images": [
+      { "src": "crawler-a1.png", "dateAdded": "2026-07-27", "isFeatured": true },
+      { "src": "crawler-a2.png", "dateAdded": "2026-07-27" }
+    ],
     "description": "Koichi Haimawari from MHA: Vigilantes",
     "category": "Portrait",
-    "dateAdded": "2026-27-07"
+    "dateAdded": "2026-07-27"
   }
 ]
