@@ -55,7 +55,7 @@
     "label": "Coscard",
     "price": "15",
     "dimensions": "3.375″ × 2.125″",
-    "isInStock": "true",
+    "isInStock": true,
     "dateAdded": "2026-07-29",
     "images": []
   }
