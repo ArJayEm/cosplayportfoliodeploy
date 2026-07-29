@@ -193,6 +193,24 @@
         "isFeatured": false,
         "isNew": false,
         "alt": ""
+      },
+      {
+        "src": "okarun-b1.jpg",
+        "dateAdded": "2026-07-29",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "1000054089",
+        "_file": {},
+        "_printItemId": "5"
+      },
+      {
+        "src": "okarun-c1.jpg",
+        "dateAdded": "2026-07-29",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "1000103559",
+        "_file": {},
+        "_printItemId": "5"
       }
     ],
     "description": "Okarun from Dandadan in in his normal form.",
@@ -279,6 +297,34 @@
     ],
     "description": "Mystery Saja from Saja Boys",
     "category": "",
+    "dateAdded": "2026-07-28"
+  },
+  {
+    "toDisplay": true,
+    "id": 9,
+    "title": "Heiter",
+    "images": [
+      {
+        "src": "Heiter-a1.jpg",
+        "dateAdded": "2026-07-28",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "1000100484",
+        "_file": {},
+        "_printItemId": 9
+      },
+      {
+        "src": "Heiter-a2.jpg",
+        "dateAdded": "2026-07-28",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "1000100487",
+        "_file": {},
+        "_printItemId": 9
+      }
+    ],
+    "description": "Heiter the Priest from Frieren: Beyond Journey's End.",
+    "category": "portrait",
     "dateAdded": "2026-07-28"
   }
 ]
