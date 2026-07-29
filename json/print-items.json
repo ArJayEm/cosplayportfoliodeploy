@@ -286,7 +286,7 @@
     "title": "Mystery Saja",
     "images": [
       {
-        "src": "Mystery-saja-a1.png",
+        "src": "mystery-saja-a1.png",
         "dateAdded": "2026-07-28",
         "isFeatured": true,
         "isNew": true,
@@ -305,7 +305,7 @@
     "title": "Heiter",
     "images": [
       {
-        "src": "Heiter-a1.jpg",
+        "src": "heiter-a1.jpg",
         "dateAdded": "2026-07-28",
         "isFeatured": true,
         "isNew": true,
@@ -314,7 +314,7 @@
         "_printItemId": 9
       },
       {
-        "src": "Heiter-a2.jpg",
+        "src": "heiter-a2.jpg",
         "dateAdded": "2026-07-28",
         "isFeatured": false,
         "isNew": true,
