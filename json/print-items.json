@@ -364,7 +364,62 @@
     "toDisplay": true,
     "id": 12,
     "title": "August Stilza",
-    "images": [],
+    "images": [
+      {
+        "src": "august-stilza-a1.jpg",
+        "dateAdded": "2026-07-31",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "august-stilza-a1.jpg",
+        "_file": {},
+        "_printItemId": 12
+      },
+      {
+        "src": "august-stilza-a2.jpg",
+        "dateAdded": "2026-07-31",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "august-stilza-a2.jpg",
+        "_file": {},
+        "_printItemId": 12
+      },
+      {
+        "src": "august-stilza-a3.jpg",
+        "dateAdded": "2026-07-31",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "august-stilza-a3.jpg",
+        "_file": {},
+        "_printItemId": 12
+      },
+      {
+        "src": "august-stilza-a4.jpg",
+        "dateAdded": "2026-07-31",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "august-stilza-a4.jpg",
+        "_file": {},
+        "_printItemId": 12
+      },
+      {
+        "src": "august-stilza-a5.jpg",
+        "dateAdded": "2026-07-31",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "august-stilza-a5.jpg",
+        "_file": {},
+        "_printItemId": 12
+      },
+      {
+        "src": "august-stilza-a6.jpg",
+        "dateAdded": "2026-07-31",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "august-stilza-a6.jpg",
+        "_file": {},
+        "_printItemId": 12
+      }
+    ],
     "description": "He's an artisan who makes clothes and mask's for the Cleaners. He runs and designs a clothing brand called Collosso.",
     "category": "anime, gachiakuta, male",
     "dateAdded": "2026-07-31"
