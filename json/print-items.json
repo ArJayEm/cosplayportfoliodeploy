@@ -27,7 +27,7 @@
       }
     ],
     "description": "Hyuga Neji from Naruto Shippuden in full cosplay detail.",
-    "category": "Portrait",
+    "category": "anime, ninjan naruto",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
@@ -124,7 +124,7 @@
       }
     ],
     "description": "Herman aka Waterboy from Dispatch in character.",
-    "category": "Portrait",
+    "category": "animation, dispatch, gaming",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
@@ -148,7 +148,7 @@
       }
     ],
     "description": "U-1146 aka White Blood Cell from Cells at Work.",
-    "category": "Portrait",
+    "category": "anime",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
@@ -179,7 +179,7 @@
       }
     ],
     "description": "Himmel the Hero from Frieren: Beyond Journey's End.",
-    "category": "Portrait",
+    "category": "anime, fantasy, frieren",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
@@ -214,7 +214,7 @@
       }
     ],
     "description": "Okarun from Dandadan in in his normal form.",
-    "category": "Action",
+    "category": "anime, dandadan",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
@@ -252,7 +252,7 @@
       }
     ],
     "description": "Loki Laufeyson as the God of Stories from the Loki Series S2 Finale, Marvel Cinematic Universe.",
-    "category": "Portrait",
+    "category": "marvel, mcu, loki, superhero",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
@@ -276,7 +276,7 @@
       }
     ],
     "description": "Koichi Haimawari from MHA: Vigilantes",
-    "category": "Portrait",
+    "category": "anime, superhero, mha",
     "dateAdded": "2026-07-27",
     "toDisplay": true
   },
@@ -291,12 +291,11 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "1000032406",
-        "_file": {},
         "_printItemId": 8
       }
     ],
     "description": "Mystery Saja from Saja Boys",
-    "category": "",
+    "category": "animation, sajaboys",
     "dateAdded": "2026-07-28"
   },
   {
@@ -310,7 +309,6 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "1000100484",
-        "_file": {},
         "_printItemId": 9
       },
       {
@@ -319,12 +317,47 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000100487",
-        "_file": {},
         "_printItemId": 9
       }
     ],
     "description": "Heiter the Priest from Frieren: Beyond Journey's End.",
-    "category": "portrait",
+    "category": "anime, fantasy, frieren",
     "dateAdded": "2026-07-28"
+  },
+  {
+    "toDisplay": true,
+    "id": 10,
+    "title": "Haruichi Izumo",
+    "images": [
+      {
+        "src": "izumo-a1.jpg",
+        "dateAdded": "2026-07-29",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "1000100484",
+        "_printItemId": 10
+      }
+    ],
+    "description": "Haruichi Izumo from Kaiju no. 8",
+    "category": "anime, kaiju",
+    "dateAdded": "2026-07-29"
+  },
+  {
+    "toDisplay": true,
+    "id": 11,
+    "title": "Kahaku",
+    "images": [
+      {
+        "src": "kahaku-a1.jpg",
+        "dateAdded": "2026-07-29",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "",
+        "_printItemId": 11
+      }
+    ],
+    "description": "Kahaku from To Your Eternity.",
+    "category": "anime, fantasy",
+    "dateAdded": "2026-07-29"
   }
 ]
