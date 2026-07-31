@@ -288,51 +288,15 @@
       {
         "src": "mystery-saja-a1.png",
         "dateAdded": "2026-07-28",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "1000032406",
-        "_file": {},
-        "_printItemId": 8
-      },
-      {
-        "src": "mystery-saja-b1.jpg",
-        "dateAdded": "2026-07-29",
         "isFeatured": true,
         "isNew": true,
-        "alt": "mystery-saja-b1.jpg",
-        "_file": {},
-        "_printItemId": 8
-      },
-      {
-        "src": "mystery-saja-b2.jpg",
-        "dateAdded": "2026-07-29",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "mystery-saja-b2.jpg",
-        "_file": {},
-        "_printItemId": 8
-      },
-      {
-        "src": "mystery-saja-b3.jpg",
-        "dateAdded": "2026-07-29",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "mystery-saja-b3.jpg",
-        "_file": {},
-        "_printItemId": 8
-      },
-      {
-        "src": "mystery-saja-b4.jpg",
-        "dateAdded": "2026-07-29",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "mystery-saja-b4.jpg",
+        "alt": "1000032406",
         "_file": {},
         "_printItemId": 8
       }
     ],
     "description": "Mystery Saja from Saja Boys",
-    "category": "animation, sajaboys, kdh, kpopdemonhunters",
+    "category": "",
     "dateAdded": "2026-07-28"
   },
   {
