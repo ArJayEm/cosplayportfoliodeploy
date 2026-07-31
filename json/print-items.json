@@ -317,7 +317,8 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000100487",
-        "_printItemId": 9
+        "_printItemId": 9,
+        "sizesAvailable": ["1","2","3","4"]
       }
     ],
     "description": "Heiter the Priest from Frieren: Beyond Journey's End.",
@@ -330,7 +331,7 @@
     "title": "Haruichi Izumo",
     "images": [
       {
-        "src": "izumo-a1.jpg",
+        "src": "izumo-a1.png",
         "dateAdded": "2026-07-29",
         "isFeatured": true,
         "isNew": true,
