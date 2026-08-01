@@ -336,6 +336,24 @@
         "isNew": true,
         "alt": "1000100484",
         "_printItemId": 10
+      },
+      {
+        "src": "izumo-a2.jpg",
+        "dateAdded": "2026-08-01",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "izumo-a2.jpg",
+        "_file": {},
+        "_printItemId": 10
+      },
+      {
+        "src": "izumo-a3.JPG",
+        "dateAdded": "2026-08-01",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "izumo-a3.JPG",
+        "_file": {},
+        "_printItemId": 10
       }
     ],
     "description": "Haruichi Izumo from Kaiju no. 8",
