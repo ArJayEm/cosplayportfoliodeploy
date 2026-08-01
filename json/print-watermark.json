@@ -1,9 +1,14 @@
-{
-  "text": "ArJay Em © 2026",
-  "fontSize": 20,
-  "fontFamily": "Georgia, serif",
-  "color": "#c4a77d",
-  "opacity": 0.306,
-  "position": "center",
-  "padding": 12
-}
+[
+  {
+    "text": "ArJay Em © 2026",
+    "fontSize": 20,
+    "fontFamily": "Georgia, serif",
+    "color": "#c4a77d",
+    "opacity": "0.7",
+    "position": "center",
+    "padding": 12,
+    "toDisplay": true,
+    "images": [],
+    "dateAdded": "2026-08-01"
+  }
+]
