@@ -6,5 +6,6 @@
   "opacity": 0,
   "quality": 0.8,
   "position": "center",
-  "padding": 12
+  "padding": 12,
+  "quality": 1
 }
