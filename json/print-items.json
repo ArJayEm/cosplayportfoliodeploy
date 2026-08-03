@@ -372,6 +372,33 @@
         "isNew": true,
         "alt": "",
         "_printItemId": 11
+      },
+      {
+        "src": "kahaku-a2.jpg",
+        "dateAdded": "2026-08-03",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "kahaku-a2.jpg",
+        "_file": {},
+        "_printItemId": 11
+      },
+      {
+        "src": "kahaku-a3.jpg",
+        "dateAdded": "2026-08-03",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "kahaku-a3.jpg",
+        "_file": {},
+        "_printItemId": 11
+      },
+      {
+        "src": "kahaku-a4.jpg",
+        "dateAdded": "2026-08-03",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "kahaku-a4.jpg",
+        "_file": {},
+        "_printItemId": 11
       }
     ],
     "description": "Kahaku from To Your Eternity.",

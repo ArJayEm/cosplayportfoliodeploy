@@ -4,41 +4,47 @@
     "label": "Coscard",
     "price": 15,
     "dimensions": "3.375\" x 2.125\"",
-    "isInStock": true
+    "isInStock": true,
+    "stockCount": 20
   },
   {
     "id": "2",
     "label": "3R",
     "price": 50,
     "dimensions": "3.5\" x 5\"",
-    "isInStock": true
+    "isInStock": true,
+    "stockCount": 40
   },
   {
     "id": "3",
     "label": "4R",
     "price": 80,
     "dimensions": "4\" x 6\"",
-    "isInStock": true
+    "isInStock": true,
+    "stockCount": 20
   },
   {
     "id": "4",
     "label": "5R",
     "price": 120,
     "dimensions": "5\" x 7\"",
-    "isInStock": true
+    "isInStock": true,
+    "stockCount": 40
   },
   {
     "id": "5",
     "label": "A4",
     "price": 150,
     "dimensions": "8.27\" x 11.69\"",
-    "isInStock": true
+    "isInStock": true,
+    "stockCount": 17
   },
   {
     "id": "6",
     "label": "A3",
     "price": 250,
     "dimensions": "11.69\" x 16.54\"",
-    "isInStock": false
+    "isInStock": false,
+    "stockCount": 0
   }
 ]
