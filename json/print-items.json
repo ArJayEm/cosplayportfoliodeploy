@@ -292,49 +292,56 @@
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
-      },{
+      },
+      {
         "src": "mystery-saja-a2.jpg",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
-      },{
+      },
+      {
         "src": "mystery-saja-a3.jpg",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
-      },{
+      },
+      {
         "src": "mystery-saja-b1.jpg",
         "dateAdded": "2026-08-04",
         "isFeatured": true,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
-      },{
+      },
+      {
         "src": "mystery-saja-b2.jpg",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
-      },{
+      },
+      {
         "src": "mystery-saja-b3.jpg",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
-      },{
+      },
+      {
         "src": "mystery-saja-b4.jpg",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
-      },{
+      },
+      {
         "src": "mystery-saja-b5.jpg",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
@@ -544,6 +551,34 @@
     ],
     "description": "the main protagonist of the Assassination Classroom series.\n\nHe is a student in Class 3-E at Kunugigaoka Junior High School, and the main narrator of the series.",
     "category": "anime, male",
+    "dateAdded": "2026-08-03"
+  },
+  {
+    "toDisplay": true,
+    "id": 14,
+    "title": "Guren x Zhongli",
+    "images": [
+      {
+        "src": "guren-zhongli-a1.jpg",
+        "dateAdded": "2026-08-03",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "guren-zhongli-a1.jpg",
+        "_file": {},
+        "_printItemId": 14
+      },
+      {
+        "src": "guren-zhongli-a2.jpg",
+        "dateAdded": "2026-08-03",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "guren-zhongli-a2.jpg",
+        "_file": {},
+        "_printItemId": 14
+      }
+    ],
+    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\n📸 Royal Winderland",
+    "category": "anime, game, fantasy, male",
     "dateAdded": "2026-08-03"
   }
 ]
