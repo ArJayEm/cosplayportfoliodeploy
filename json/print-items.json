@@ -288,21 +288,21 @@
       {
         "src": "mystery-saja-a1.png",
         "dateAdded": "2026-07-28",
-        "isFeatured": true,
+        "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
       },{
         "src": "mystery-saja-a2.jpg",
         "dateAdded": "2026-08-04",
-        "isFeatured": true,
+        "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
       },{
         "src": "mystery-saja-a3.jpg",
         "dateAdded": "2026-08-04",
-        "isFeatured": true,
+        "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
@@ -316,28 +316,28 @@
       },{
         "src": "mystery-saja-b2.jpg",
         "dateAdded": "2026-08-04",
-        "isFeatured": true,
+        "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
       },{
         "src": "mystery-saja-b3.jpg",
         "dateAdded": "2026-08-04",
-        "isFeatured": true,
+        "isFeatured": false
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
       },{
         "src": "mystery-saja-b4.jpg",
         "dateAdded": "2026-08-04",
-        "isFeatured": true,
+        "isFeatured": false
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
       },{
         "src": "mystery-saja-b5.jpg",
         "dateAdded": "2026-08-04",
-        "isFeatured": true,
+        "isFeatured": false
         "isNew": true,
         "alt": "1000032406",
         "_printItemId": 8
