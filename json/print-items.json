@@ -135,16 +135,25 @@
       {
         "src": "wbc-a1.jpg",
         "dateAdded": "2026-07-24",
-        "isFeatured": true,
+        "isFeatured": false,
         "isNew": false,
         "alt": ""
       },
       {
         "src": "wbc-a2.jpg",
         "dateAdded": "2026-07-24",
-        "isFeatured": false,
+        "isFeatured": true,
         "isNew": false,
         "alt": ""
+      },
+      {
+        "src": "wbc-a3.png",
+        "dateAdded": "2026-08-03",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "wbc-a3.png",
+        "_file": {},
+        "_printItemId": "3"
       }
     ],
     "description": "U-1146 aka White Blood Cell from Cells at Work.",
@@ -577,7 +586,7 @@
         "_printItemId": 14
       }
     ],
-    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\n📸 Royal Winderland",
+    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nð¸ Royal Winderland",
     "category": "anime, game, fantasy, male",
     "dateAdded": "2026-08-04"
   }
