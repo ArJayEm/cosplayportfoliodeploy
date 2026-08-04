@@ -282,10 +282,19 @@
         "isFeatured": false,
         "isNew": false,
         "alt": ""
+      },
+      {
+        "src": "crawler-b1.png",
+        "dateAdded": "2026-08-04",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "crawler-b1.png",
+        "_file": {},
+        "_printItemId": "7"
       }
     ],
     "description": "Koichi Haimawari from MHA: Vigilantes",
-    "category": "anime, superhero, mha",
+    "category": "anime, superhero, mha, male",
     "dateAdded": "2026-07-27",
     "toDisplay": true
   },
@@ -586,7 +595,7 @@
         "_printItemId": 14
       }
     ],
-    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nð¸ Royal Winderland",
+    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nÃ°ÂÂÂ¸ Royal Winderland",
     "category": "anime, game, fantasy, male",
     "dateAdded": "2026-08-04"
   }
