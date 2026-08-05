@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "name": "Raff Julius",
@@ -256,19 +255,3 @@
     "orderId": "ORD-2026-08-05T09:13:45.310Z"
   }
 ]
-=======
-{
-  "name": "Raff",
-  "email": "raffmartinez14@gmail.com",
-  "phone": "09173256335",
-  "deliveryMethod": "pickup",
-  "eventName": "Tanabata D1",
-  "address": "",
-  "city": "",
-  "province": "",
-  "zipCode": "",
-  "notes": "",
-  "items": "",
-  "total": ""
-}
->>>>>>> f3ea60ccca8983c6e24b9e2d293f436ef81c3bf7
