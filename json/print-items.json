@@ -328,7 +328,7 @@
         "_printItemId": 8
       },
       {
-        "src": "mystery-saja-b1.jpg",
+        "src": "mystery-saja-b1.JPG",
         "dateAdded": "2026-08-04",
         "isFeatured": true,
         "isNew": true,
@@ -336,7 +336,7 @@
         "_printItemId": 8
       },
       {
-        "src": "mystery-saja-b2.jpg",
+        "src": "mystery-saja-b2.JPG",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
@@ -344,7 +344,7 @@
         "_printItemId": 8
       },
       {
-        "src": "mystery-saja-b3.jpg",
+        "src": "mystery-saja-b3.JPG",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
@@ -352,7 +352,7 @@
         "_printItemId": 8
       },
       {
-        "src": "mystery-saja-b4.jpg",
+        "src": "mystery-saja-b4.JPG",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
@@ -360,7 +360,7 @@
         "_printItemId": 8
       },
       {
-        "src": "mystery-saja-b5.jpg",
+        "src": "mystery-saja-b5.JPG",
         "dateAdded": "2026-08-04",
         "isFeatured": false,
         "isNew": true,
@@ -491,7 +491,8 @@
         "isNew": true,
         "alt": "august-stilza-a1.jpg",
         "_file": {},
-        "_printItemId": 12
+        "_printItemId": 12,
+        "isBestSeller": false
       },
       {
         "src": "august-stilza-a2.jpg",

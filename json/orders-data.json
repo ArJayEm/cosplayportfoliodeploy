@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Raff Julius",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata D1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "10-4R-1785933375801",
+        "printId": 10,
+        "title": "Haruichi Izumo",
+        "image": "/shop/prints-thumbnails/10/izumo-a1.png",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "izumo-a1.png"
+      },
+      {
+        "id": "10-4R-1785933379334",
+        "printId": 10,
+        "title": "Haruichi Izumo",
+        "image": "/shop/prints-thumbnails/10/izumo-a3.JPG",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "izumo-a3.JPG"
+      }
+    ],
+    "total": "₱160.00",
+    "notes": "",
+    "orderDate": "2026-08-05T12:36:42.861Z",
+    "orderId": "ORD-2026-08-05T12:36:42.861Z"
+  },
+  {
+    "name": "Raff Julius",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata D1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "1-4R-1785933187946",
+        "printId": "1",
+        "title": "Hyuga Neji",
+        "image": "/shop/prints-thumbnails/1/neji-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "neji-a1.jpg"
+      }
+    ],
+    "total": "₱80.00",
+    "notes": "meetup place jollibee",
+    "orderDate": "2026-08-05T12:33:57.090Z",
+    "orderId": "ORD-2026-08-05T12:33:57.090Z"
+  },
+  {
+    "name": "Raff Julius",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata D1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "14-4R-1785932614724",
+        "printId": 14,
+        "title": "Guren x Zhongli",
+        "image": "/shop/prints-thumbnails/14/guren-zhongli-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "guren-zhongli-a1.jpg"
+      },
+      {
+        "id": "13-4R-1785932627213",
+        "printId": 13,
+        "title": "Nagisa Shiota",
+        "image": "/shop/prints-thumbnails/13/nagisa-a1.png",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "nagisa-a1.png"
+      },
+      {
+        "id": "12-4R-1785932637673",
+        "printId": 12,
+        "title": "August Stilza",
+        "image": "/shop/prints-thumbnails/12/august-stilza-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "august-stilza-a1.jpg"
+      }
+    ],
+    "total": "₱240.00",
+    "notes": "",
+    "orderDate": "2026-08-05T12:24:24.285Z",
+    "orderId": "ORD-2026-08-05T12:24:24.285Z"
+  },
+  {
+    "name": "Raff Julius",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata D1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "12-Coscard-1785928475433",
+        "printId": 12,
+        "title": "August Stilza",
+        "image": "/shop/prints-thumbnails/12/august-stilza-a4.jpg",
+        "size": "Coscard",
+        "price": 15,
+        "quantity": 1,
+        "item": "august-stilza-a4.jpg"
+      },
+      {
+        "id": "12-4R-1785928482037",
+        "printId": 12,
+        "title": "August Stilza",
+        "image": "/shop/prints-thumbnails/12/august-stilza-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "august-stilza-a1.jpg"
+      },
+      {
+        "id": "2-4R-1785928528325",
+        "printId": "2",
+        "title": "Herman aka Waterboy",
+        "image": "/shop/prints-thumbnails/2/waterboy-d1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "waterboy-d1.jpg"
+      },
+      {
+        "id": "2-4R-1785928534688",
+        "printId": "2",
+        "title": "Herman aka Waterboy",
+        "image": "/shop/prints-thumbnails/2/waterboy-e1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "waterboy-e1.jpg"
+      },
+      {
+        "id": "2-4R-1785928542663",
+        "printId": "2",
+        "title": "Herman aka Waterboy",
+        "image": "/shop/prints-thumbnails/2/waterboy-d6.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "waterboy-d6.jpg"
+      },
+      {
+        "id": "7-4R-1785928552331",
+        "printId": "7",
+        "title": "Koichi Haimawari aka the Crawler",
+        "image": "/shop/prints-thumbnails/7/crawler-a1.png",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "crawler-a1.png"
+      },
+      {
+        "id": "7-4R-1785928555568",
+        "printId": "7",
+        "title": "Koichi Haimawari aka the Crawler",
+        "image": "/shop/prints-thumbnails/7/crawler-a2.png",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "crawler-a2.png"
+      },
+      {
+        "id": "7-4R-1785928558544",
+        "printId": "7",
+        "title": "Koichi Haimawari aka the Crawler",
+        "image": "/shop/prints-thumbnails/7/crawler-b1.png",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "crawler-b1.png"
+      }
+    ],
+    "total": "₱575.00",
+    "notes": "",
+    "orderDate": "2026-08-05T11:16:54.199Z",
+    "orderId": "ORD-2026-08-05T11:16:54.199Z"
+  },
+  {
+    "name": "Raff Julius",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata D1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "11-4R-1785921207301",
+        "printId": 11,
+        "title": "Kahaku",
+        "image": "/shop/prints-thumbnails/11/kahaku-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "kahaku-a1.jpg"
+      },
+      {
+        "id": "8-4R-1785921213233",
+        "printId": 8,
+        "title": "Mystery Saja",
+        "image": "/shop/prints-thumbnails/8/mystery-saja-b1.JPG",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "mystery-saja-b1.JPG"
+      },
+      {
+        "id": "8-4R-1785921214890",
+        "printId": 8,
+        "title": "Mystery Saja",
+        "image": "/shop/prints-thumbnails/8/mystery-saja-b3.JPG",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "mystery-saja-b3.JPG"
+      }
+    ],
+    "total": "₱240.00",
+    "notes": "",
+    "orderDate": "2026-08-05T09:13:45.310Z",
+    "orderId": "ORD-2026-08-05T09:13:45.310Z"
+  }
+]
