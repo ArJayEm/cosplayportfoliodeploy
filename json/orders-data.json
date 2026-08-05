@@ -1,5 +1,52 @@
 [
   {
+    "name": "rj",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata d1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "14-4R-1785934675018",
+        "printId": 14,
+        "title": "Guren x Zhongli",
+        "image": "/shop/prints-thumbnails/14/guren-zhongli-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "guren-zhongli-a1.jpg"
+      },
+      {
+        "id": "4-4R-1785934686505",
+        "printId": "4",
+        "title": "Himmel the Hero",
+        "image": "/shop/prints-thumbnails/4/himmel-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "himmel-a1.jpg"
+      },
+      {
+        "id": "6-4R-1785934692928",
+        "printId": "6",
+        "title": "Loki Laufeyson",
+        "image": "/shop/prints-thumbnails/6/loki-a3.png",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "loki-a3.png"
+      }
+    ],
+    "total": "₱240.00",
+    "notes": "",
+    "orderDate": "2026-08-05T12:59:13.510Z",
+    "orderId": "ORD-2026-08-05T12:59:13.510Z"
+  },
+  {
     "name": "Raff Julius",
     "email": "raffmartinez14@gmail.com",
     "phone": "09173256335",
@@ -31,7 +78,7 @@
         "item": "izumo-a3.JPG"
       }
     ],
-    "total": "₱160.00",
+    "total": "â±160.00",
     "notes": "",
     "orderDate": "2026-08-05T12:36:42.861Z",
     "orderId": "ORD-2026-08-05T12:36:42.861Z"
@@ -58,7 +105,7 @@
         "item": "neji-a1.jpg"
       }
     ],
-    "total": "₱80.00",
+    "total": "â±80.00",
     "notes": "meetup place jollibee",
     "orderDate": "2026-08-05T12:33:57.090Z",
     "orderId": "ORD-2026-08-05T12:33:57.090Z"
@@ -105,7 +152,7 @@
         "item": "august-stilza-a1.jpg"
       }
     ],
-    "total": "₱240.00",
+    "total": "â±240.00",
     "notes": "",
     "orderDate": "2026-08-05T12:24:24.285Z",
     "orderId": "ORD-2026-08-05T12:24:24.285Z"
@@ -202,7 +249,7 @@
         "item": "crawler-b1.png"
       }
     ],
-    "total": "₱575.00",
+    "total": "â±575.00",
     "notes": "",
     "orderDate": "2026-08-05T11:16:54.199Z",
     "orderId": "ORD-2026-08-05T11:16:54.199Z"
@@ -249,7 +296,7 @@
         "item": "mystery-saja-b3.JPG"
       }
     ],
-    "total": "₱240.00",
+    "total": "â±240.00",
     "notes": "",
     "orderDate": "2026-08-05T09:13:45.310Z",
     "orderId": "ORD-2026-08-05T09:13:45.310Z"
