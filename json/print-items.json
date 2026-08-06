@@ -595,7 +595,7 @@
         "_printItemId": 14
       }
     ],
-    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¸ Royal Winderland",
+    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸ Royal Winderland",
     "category": "anime, game, fantasy, male",
     "dateAdded": "2026-08-04"
   },
@@ -603,7 +603,17 @@
     "toDisplay": true,
     "id": 15,
     "title": "Tokoyami Fumikage",
-    "images": [],
+    "images": [
+      {
+        "src": "tokoyami-a1.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "tokoyami-a1.jpg",
+        "_file": {},
+        "_printItemId": 15
+      }
+    ],
     "description": "Tokoyami Fumikage from Class-1A My Hero Academia ",
     "category": "anime,male,MHA,My Hero Academia,hero",
     "dateAdded": "2026-08-06"
