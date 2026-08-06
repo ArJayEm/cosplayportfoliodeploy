@@ -47,15 +47,15 @@
   },
   {
     "id": 6,
-    "title": "U-1146 aka White Blood Cell",
-    "skillsApplied": "Sewing (hand)",
-    "series": "Cells at Work",
+    "title": "U-1146, WBC (White Blood Cell)",
+    "skillsApplied": "Sewing (hand), Make-up",
+    "series": "Cells at Work! 2024",
     "year": 2025,
     "photographer": "Yunxi Photography",
     "photogPage": "https://www.facebook.com/yunxiphotographyph",
     "event": "Toy Mania 2025 D1",
     "image": "/portfolio-6.jpg",
-    "location": "Ayala Malls Manila Bay",
+    "location": "China Town, Ayala Malls Manila Bay",
     "isFeatured": true,
     "tags": [
       "anime",
@@ -92,12 +92,12 @@
     "id": 3,
     "title": "Mystery Saja",
     "skillsApplied": "Sewing",
-    "series": "Saja Boys, Kpop Demon Hunters",
+    "series": "Kpop Demon Hunters",
     "year": 2025,
     "photographer": "Meguriii",
     "photogPage": "https://www.facebook.com/share/1D22WGZKme/",
     "event": "Honmoon Halloween Party 2025 D1",
-    "location": "Greenfield District",
+    "location": "Food Truck Fest, Greenfield District",
     "image": "/7Y2A9571.JPG",
     "isFeatured": true,
     "tags": [
@@ -118,7 +118,7 @@
     "year": 2025,
     "photographer": "Yunxi Photography",
     "photogPage": "https://www.facebook.com/yunxiphotographyph",
-    "event": "CosMeet 2025 D2, Okada Manila",
+    "event": "CosMeet 2025 D2",
     "image": "/portfolio-3.png",
     "isFeatured": true,
     "tags": [
@@ -128,6 +128,7 @@
       "frieren"
     ],
     "toDisplay": true,
+    "location": "Okada Manila",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -148,6 +149,7 @@
       "dandadan"
     ],
     "toDisplay": true,
+    "location": "The Block, SM North EDSA",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -159,7 +161,7 @@
     "year": 2024,
     "photographer": "CineStill Studio",
     "photogPage": "https://www.facebook.com/cinestillstudio",
-    "event": "Jujutsu Kaisen CG Photoshoot, BGC",
+    "event": "Jujutsu Kaisen CG Photoshoot",
     "image": "/b-haruta.jpg",
     "isFeatured": true,
     "tags": [
@@ -169,6 +171,7 @@
       "jujutsu kaisen"
     ],
     "toDisplay": true,
+    "location": "Central Square, 5th Ave, BGC",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -180,7 +183,7 @@
     "year": 2024,
     "photographer": "RBZ Visuals",
     "photogPage": "https://www.facebook.com/rbz.visuals",
-    "event": "RenFaire 2024, Carantes Ancestral Park, Baguio",
+    "event": "RenFaire 2024 D1",
     "image": "/c-loki.jpg",
     "isFeatured": true,
     "tags": [
@@ -191,18 +194,19 @@
       "loki"
     ],
     "toDisplay": true,
+    "location": "Carantes Ancestral Park, Baguio",
     "images": [],
     "dateAdded": "2026-08-06"
   },
   {
     "id": 11,
-    "title": "Tamaki Amajiki (Fantasy AU)",
+    "title": "Tamaki Amajiki",
     "skillsApplied": "Sewing, Original Concept",
-    "series": "My Hero Academia",
+    "series": "My Hero Academia (Fantasy AU)",
     "year": 2024,
     "photographer": "Eprim Digital",
     "photogPage": "https://www.facebook.com/eprimdigital",
-    "event": "RenFaire 2024, Carantes Ancestral Park, Baguio",
+    "event": "RenFaire 2024 D2",
     "image": "/d-suneater.jpg",
     "isFeatured": true,
     "tags": [
@@ -212,6 +216,7 @@
       "superhero"
     ],
     "toDisplay": true,
+    "location": "Carantes Ancestral Park, Baguio",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -223,7 +228,7 @@
     "year": 2024,
     "photographer": "Subject: Troubadour",
     "photogPage": "https://www.facebook.com/subjecttroubadour",
-    "event": "Cosplay Blitz 5 Day 1, Ayala Malls Circuit, Makati",
+    "event": "Cosplay Blitz 5 D1",
     "image": "/e-corio.png",
     "isFeatured": true,
     "tags": [
@@ -233,6 +238,7 @@
       "tbosas"
     ],
     "toDisplay": true,
+    "location": "Ayala Malls Circuit, Makati",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -244,7 +250,7 @@
     "year": 2024,
     "photographer": "Lollie Fatui",
     "photogPage": "https://www.facebook.com/lollie.fatui",
-    "event": "Tanabta 2024 D2, SM Megamall, Mandaluyong City",
+    "event": "Tanabta 2024 D2",
     "image": "/f-cypher.JPG",
     "isFeatured": true,
     "tags": [
@@ -254,6 +260,7 @@
       "valorant"
     ],
     "toDisplay": true,
+    "location": "SM Megamall, Mandaluyong City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -261,11 +268,11 @@
     "id": 14,
     "title": "Arthur Fleck aka the Joker",
     "skillsApplied": "Makeup",
-    "series": "DCU",
+    "series": "Joker 2019 (DC Universe)",
     "year": 2024,
     "photographer": "Yunxi Photography",
     "photogPage": "https://www.facebook.com/yunxiphotographyph",
-    "event": "ToyCon 2024 D2, SMX Convention Center, Pasay City",
+    "event": "ToyCon 2024 D2",
     "image": "/g-joker.jpg",
     "isFeatured": true,
     "tags": [
@@ -275,6 +282,7 @@
       "dc"
     ],
     "toDisplay": true,
+    "location": "SMX Convention Center, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -286,7 +294,7 @@
     "year": 2023,
     "photographer": "Cai Captures",
     "photogPage": "https://www.facebook.com/share/1KbFHCU2PW/",
-    "event": "Anime Fair 2023 D1, Ayala Malls Manila Bay",
+    "event": "Anime Fair 2023 D1",
     "image": "/a-aki.jpg",
     "isFeatured": true,
     "tags": [
@@ -296,6 +304,7 @@
       "demon"
     ],
     "toDisplay": true,
+    "location": "Sun Garden 5th Floor, Ayala Malls Manila Bay",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -307,7 +316,7 @@
     "year": 2023,
     "photographer": "Eric Serva",
     "photogPage": "https://www.facebook.com/eric.serva.1",
-    "event": "Cosplay Satseui Arroceros Openshoot, Arroceros Forest Park, Manila",
+    "event": "Cosplay Satseui Arroceros Openshoot",
     "image": "/a-tanjiro.jpeg",
     "isFeatured": true,
     "tags": [
@@ -317,6 +326,7 @@
       "kny"
     ],
     "toDisplay": true,
+    "location": "Arroceros Forest Park, Manila",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -328,7 +338,7 @@
     "year": 2023,
     "photographer": "Royal Wonderland",
     "photogPage": "https://www.facebook.com/royalwonderland2014",
-    "event": "One Piece CG Photoshoot, Raichi Studio, QC",
+    "event": "One Piece CG Photoshoot",
     "image": "/b-sanji.jpg",
     "isFeatured": true,
     "tags": [
@@ -337,6 +347,7 @@
       "one piece"
     ],
     "toDisplay": true,
+    "location": "Raichi Studio, QC",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -348,7 +359,7 @@
     "year": 2023,
     "photographer": "Taro Visions",
     "photogPage": "https://www.facebook.com/tarovisions02",
-    "event": "CSM CG Photoshoot, BGC",
+    "event": "CSM CG Photoshoot",
     "image": "/c-galghali.jpg",
     "isFeatured": true,
     "tags": [
@@ -358,6 +369,7 @@
       "demon"
     ],
     "toDisplay": true,
+    "location": "30th Park, BGC",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -369,7 +381,7 @@
     "year": 2023,
     "photographer": "Erving Go",
     "photogPage": "https://www.facebook.com/erving.go",
-    "event": "Liyue Hanfu Photoshoot, Sashinko Studio, QC",
+    "event": "Liyue Hanfu Photoshoot",
     "image": "/c-zhongli.jpeg",
     "isFeatured": true,
     "tags": [
@@ -380,6 +392,7 @@
       "genshin"
     ],
     "toDisplay": true,
+    "location": "Sashinko Studio, QC",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -391,7 +404,7 @@
     "year": 2023,
     "photographer": "Pat Galupe Photos",
     "photogPage": "",
-    "event": "Ozine Fest Halloween Special 2023 D1, Ayala Malls Fairview, QC",
+    "event": "Ozine Fest Halloween Special 2023 D1",
     "image": "/c-wednesday.jpeg",
     "isFeatured": true,
     "tags": [
@@ -401,6 +414,7 @@
       "addams family"
     ],
     "toDisplay": true,
+    "location": "Ayala Malls Fairview, QC",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -412,7 +426,7 @@
     "year": 2023,
     "photographer": "Yunxi Photography",
     "photogPage": "https://www.facebook.com/yunxiphotographyph",
-    "event": "Cosplay Satsuei Helipad Openshoot, ASEAN, Pasay City",
+    "event": "Cosplay Satsuei Helipad Openshoot",
     "image": "/d-suneater.jpeg",
     "isFeatured": true,
     "tags": [
@@ -422,6 +436,7 @@
       "superhero"
     ],
     "toDisplay": true,
+    "location": "ASEAN, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -433,7 +448,7 @@
     "year": 2023,
     "photographer": "Aiel Photography",
     "photogPage": "https://www.facebook.com/share/1GVFv7HuqR/",
-    "event": "Geek+Pop 2023 D1, Ayala Malls Circuit, Makati",
+    "event": "Geek+Pop 2023 D1",
     "image": "/e-loki.jpeg",
     "isFeatured": true,
     "tags": [
@@ -444,6 +459,7 @@
       "mcu"
     ],
     "toDisplay": true,
+    "location": "Ayala Malls Circuit, Makati",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -455,7 +471,7 @@
     "year": 2022,
     "photographer": "Until My Batteries Expires",
     "photogPage": "https://www.facebook.com/untilmybatteriesexpire",
-    "event": "Cosplay Carnival 2022 D1, SMX Convention Center, Pasay City",
+    "event": "Cosplay Carnival 2022 D1",
     "image": "/a-strange.jpg",
     "isFeatured": true,
     "tags": [
@@ -466,6 +482,7 @@
       "mcu"
     ],
     "toDisplay": true,
+    "location": "SMX Convention Center, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -477,7 +494,7 @@
     "year": 2022,
     "photographer": "M. Reyes",
     "photogPage": "",
-    "event": "ToyCon 2022 D1, SM Megamall, Mandaluyong City",
+    "event": "ToyCon 2022 D1",
     "image": "/b-loki.jpg",
     "isFeatured": true,
     "tags": [
@@ -488,6 +505,7 @@
       "mcu"
     ],
     "toDisplay": true,
+    "location": "SM Megamall, Mandaluyong City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -499,7 +517,7 @@
     "year": 2022,
     "photographer": "JIDO Photography Studio",
     "photogPage": "https://www.facebook.com/JIDOPhotographyStudio",
-    "event": "Cosplay Mania 2022 D2, MOA by the Bay, Pasay City",
+    "event": "Cosplay Mania 2022 D2",
     "image": "/c-002.jpg",
     "isFeatured": true,
     "tags": [
@@ -509,6 +527,7 @@
       "meccha"
     ],
     "toDisplay": true,
+    "location": "MOA by the Bay, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -520,7 +539,7 @@
     "year": 2022,
     "photographer": "",
     "photogPage": "",
-    "event": "",
+    "event": "Cosplay Matsuri 2023 D3",
     "image": "/d-loki.jpeg",
     "isFeatured": true,
     "tags": [
@@ -531,6 +550,7 @@
       "mcu"
     ],
     "toDisplay": true,
+    "location": "SMX Convention Center, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -542,7 +562,7 @@
     "year": 2021,
     "photographer": "RM Visuals",
     "photogPage": "https://www.facebook.com/i.am.RMVisuals",
-    "event": "Cosplay Mini Matsuri 2021 D3, SMX Convention Center, Pasay City",
+    "event": "Cosplay Mini Matsuri 2021 D3",
     "image": "/a-loki.jpeg",
     "isFeatured": true,
     "tags": [
@@ -553,6 +573,7 @@
       "mcu"
     ],
     "toDisplay": true,
+    "location": "SMX Convention Center, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -586,7 +607,7 @@
     "year": 2018,
     "photographer": "N/A",
     "photogPage": "",
-    "event": "Cosplay Mania 2018 D2, SMX Convention Center, Pasay City",
+    "event": "Cosplay Mania 2018 D2",
     "image": "/a-deku.jpg",
     "isFeatured": true,
     "tags": [
@@ -595,6 +616,7 @@
       "superhero"
     ],
     "toDisplay": true,
+    "location": "SMX Convention Center, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -606,14 +628,12 @@
     "year": 2026,
     "photographer": "Parchey",
     "photogPage": "https://www.facebook.com/parch3y/",
-    "event": "TADC Photoshoot, Sashinko Studio, QC",
+    "event": "The Amazing Digital Circus CG Photoshoot",
     "image": "/c-disappearing-guy.png",
     "isFeatured": true,
-    "tags": [
-      "animation",
-      "tadc"
-    ],
+    "tags": "animation,tadc,male",
     "toDisplay": true,
+    "location": "Sashinko Studio, QC",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -625,7 +645,7 @@
     "year": 2026,
     "photographer": "",
     "photogPage": "",
-    "event": "Tensura Movie Premiere, SM North EDSA, QC",
+    "event": "Tensura Movie Premiere",
     "image": "/d-rimuru.png",
     "isFeatured": true,
     "tags": [
@@ -635,25 +655,24 @@
       "tensura"
     ],
     "toDisplay": true,
+    "location": "Cinema 2, The Block, SM North EDSA, QC",
     "images": [],
     "dateAdded": "2026-08-06"
   },
   {
     "id": 32,
-    "title": "Disappearing Guy",
+    "title": "Disappearing Guy, Noir",
     "skillsApplied": "Sewing",
-    "series": "The Amazing Digital Circus",
+    "series": "The Amazing Digital Circus, Episode 5",
     "year": 2026,
     "photographer": "Parchey",
     "photogPage": "https://www.facebook.com/parch3y/",
-    "event": "TADC Noir Photoshoot, QC",
+    "event": "The Amazing Digital Circus CG Noir Photoshoot",
     "image": "/e-disappearing-guy.JPG",
     "isFeatured": true,
-    "tags": [
-      "animation",
-      "tadc"
-    ],
+    "tags": "animation,tadc,male",
     "toDisplay": true,
+    "location": "Obie's Prime Suite - 3BR KTV Lounge Near SM North",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -665,7 +684,7 @@
     "year": 2026,
     "photographer": "Raw Shots Studio",
     "photogPage": "https://www.facebook.com/share/14kyuiqF5uM/",
-    "event": "MHA Timeskip CG Photoshoot, Gala Food Park, Pasay City",
+    "event": "MHA Timeskip CG Photoshoot",
     "image": "/f-tokoyami.jpg",
     "isFeatured": true,
     "tags": [
@@ -674,6 +693,7 @@
       "superhero"
     ],
     "toDisplay": true,
+    "location": "Gala Food Park, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -693,6 +713,7 @@
       "male",
       "gachiakuta"
     ],
+    "location": "China Town, Ayala Malls Manila Bay",
     "images": [],
     "dateAdded": "2026-08-06"
   },
@@ -713,6 +734,8 @@
       "fantasy",
       "frieren"
     ],
+    "location": "Okada Manila",
+    "isFeatured": "true",
     "images": [],
     "dateAdded": "2026-08-06"
   }
