@@ -177,7 +177,7 @@
   },
   {
     "id": 10,
-    "title": "Loki Laufeyson, OC",
+    "title": "Loki Laufeyson (OC)",
     "skillsApplied": "Sewing,  Prop Making",
     "series": "Marvel Cinematic Universe",
     "year": 2024,
@@ -288,7 +288,7 @@
   },
   {
     "id": 15,
-    "title": "Aki HAyakawa",
+    "title": "Aki Hayakawa",
     "skillsApplied": "Makeup",
     "series": "Chainsaw Man",
     "year": 2023,
@@ -375,13 +375,13 @@
   },
   {
     "id": 19,
-    "title": "Zhongli",
+    "title": "Zhongli (Hanfu Version)",
     "skillsApplied": "Makeup",
-    "series": "Genshin Impact (Hanfu Version)",
+    "series": "Genshin Impact",
     "year": 2023,
     "photographer": "Erving Go",
     "photogPage": "https://www.facebook.com/erving.go",
-    "event": "Liyue Hanfu Photoshoot",
+    "event": "Liyue Hanfu CG Photoshoot",
     "image": "/c-zhongli.jpeg",
     "isFeatured": true,
     "tags": [
@@ -511,8 +511,8 @@
   },
   {
     "id": 25,
-    "title": "Zero Two - 002",
-    "skillsApplied": "Makeup",
+    "title": "002 (Zero Two)",
+    "skillsApplied": "Makeup, Wig-Styling",
     "series": "Darling in the Franxx",
     "year": 2022,
     "photographer": "JIDO Photography Studio",
@@ -520,12 +520,7 @@
     "event": "Cosplay Mania 2022 D2",
     "image": "/c-002.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "female",
-      "002",
-      "meccha"
-    ],
+    "tags": "anime,female,002,mecha",
     "toDisplay": true,
     "location": "MOA by the Bay, Pasay City",
     "images": [],
@@ -556,7 +551,7 @@
   },
   {
     "id": 27,
-    "title": "Loki Laufeyson",
+    "title": "President Loki Variant",
     "skillsApplied": "Prop Making",
     "series": "Loki S1, Marvel Cinematic Universe",
     "year": 2021,
@@ -579,13 +574,13 @@
   },
   {
     "id": 28,
-    "title": "Spider-Man aka Nightmonkey",
+    "title": "Spider-Man aka Night Monkey",
     "skillsApplied": "Sewing",
     "series": "Spider-man Far From Home, MCU",
     "year": 2019,
     "photographer": "Mark Anthony Victorio",
     "photogPage": "https://www.facebook.com/share/18QMj1F46H/",
-    "event": "Cosplay Carnival 2019 D1, SMX Convention Center, Pasay City",
+    "event": "Cosplay Carnival 2019 D1",
     "image": "/a-spidey.jpg",
     "isFeatured": true,
     "tags": [
@@ -596,6 +591,7 @@
       "mcu"
     ],
     "toDisplay": true,
+    "location": "SMX Convention Center, Pasay City",
     "images": [],
     "dateAdded": "2026-08-06"
   },
