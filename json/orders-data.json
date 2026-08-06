@@ -1,5 +1,42 @@
 [
   {
+    "name": "Raff Julius Olazo Martinez",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "courier",
+    "eventName": "",
+    "address": "B47 L8 Bonito St, NBBS Kaunlaran\nRm6 Flr3 B47 L8",
+    "city": "Navotas City",
+    "province": "NCR",
+    "zipCode": "1485",
+    "items": [
+      {
+        "id": "9-4R-1786009569683",
+        "printId": 9,
+        "title": "Heiter",
+        "image": "/shop/prints-thumbnails/9/heiter-a1.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "heiter-a1.jpg"
+      },
+      {
+        "id": "9-4R-1786009571043",
+        "printId": 9,
+        "title": "Heiter",
+        "image": "/shop/prints-thumbnails/9/heiter-a2.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "heiter-a2.jpg"
+      }
+    ],
+    "total": "₱160.00",
+    "notes": "",
+    "orderDate": "2026-08-06T09:46:29.712Z",
+    "orderId": "ORD-2026-08-06T09:46:29.712Z"
+  },
+  {
     "name": "RJ M",
     "email": "arjayem.cosplay1109@gmail.com",
     "phone": "09173256335",
@@ -41,7 +78,7 @@
         "item": "crawler-b1.png"
       }
     ],
-    "total": "₱240.00",
+    "total": "â±240.00",
     "notes": "",
     "orderDate": "2026-08-06T09:41:06.063Z",
     "orderId": "ORD-2026-08-06T09:41:06.063Z"
@@ -88,7 +125,7 @@
         "item": "august-stilza-a3.jpg"
       }
     ],
-    "total": "â±240.00",
+    "total": "Ã¢ÂÂ±240.00",
     "notes": "",
     "orderDate": "2026-08-06T09:36:36.814Z",
     "orderId": "ORD-2026-08-06T09:36:36.814Z"
@@ -135,7 +172,7 @@
         "item": "loki-a3.png"
       }
     ],
-    "total": "Ã¢ÂÂ±240.00",
+    "total": "ÃÂ¢ÃÂÃÂ±240.00",
     "notes": "",
     "orderDate": "2026-08-05T12:59:13.510Z",
     "orderId": "ORD-2026-08-05T12:59:13.510Z"
@@ -172,7 +209,7 @@
         "item": "izumo-a3.JPG"
       }
     ],
-    "total": "ÃÂ¢ÃÂÃÂ±160.00",
+    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±160.00",
     "notes": "",
     "orderDate": "2026-08-05T12:36:42.861Z",
     "orderId": "ORD-2026-08-05T12:36:42.861Z"
@@ -199,7 +236,7 @@
         "item": "neji-a1.jpg"
       }
     ],
-    "total": "ÃÂ¢ÃÂÃÂ±80.00",
+    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±80.00",
     "notes": "meetup place jollibee",
     "orderDate": "2026-08-05T12:33:57.090Z",
     "orderId": "ORD-2026-08-05T12:33:57.090Z"
@@ -246,7 +283,7 @@
         "item": "august-stilza-a1.jpg"
       }
     ],
-    "total": "ÃÂ¢ÃÂÃÂ±240.00",
+    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±240.00",
     "notes": "",
     "orderDate": "2026-08-05T12:24:24.285Z",
     "orderId": "ORD-2026-08-05T12:24:24.285Z"
@@ -343,7 +380,7 @@
         "item": "crawler-b1.png"
       }
     ],
-    "total": "ÃÂ¢ÃÂÃÂ±575.00",
+    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±575.00",
     "notes": "",
     "orderDate": "2026-08-05T11:16:54.199Z",
     "orderId": "ORD-2026-08-05T11:16:54.199Z"
@@ -390,7 +427,7 @@
         "item": "mystery-saja-b3.JPG"
       }
     ],
-    "total": "ÃÂ¢ÃÂÃÂ±240.00",
+    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±240.00",
     "notes": "",
     "orderDate": "2026-08-05T09:13:45.310Z",
     "orderId": "ORD-2026-08-05T09:13:45.310Z"
