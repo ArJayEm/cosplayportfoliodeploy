@@ -399,7 +399,7 @@
     "dateAdded": "2026-07-28"
   },
   {
-    "toDisplay": true,
+    "toDisplay": false,
     "id": 10,
     "title": "Haruichi Izumo",
     "images": [
@@ -491,8 +491,7 @@
         "isNew": true,
         "alt": "august-stilza-a1.jpg",
         "_file": {},
-        "_printItemId": 12,
-        "isBestSeller": false
+        "_printItemId": 12
       },
       {
         "src": "august-stilza-a2.jpg",
@@ -596,7 +595,7 @@
         "_printItemId": 14
       }
     ],
-    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nÃ°ÂÂÂ¸ Royal Winderland",
+    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nÃÂ°ÃÂÃÂÃÂ¸ Royal Winderland",
     "category": "anime, game, fantasy, male",
     "dateAdded": "2026-08-04"
   }
