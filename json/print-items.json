@@ -611,43 +611,7 @@
         "isNew": true,
         "alt": "tokoyami-a1.jpg",
         "_file": {},
-        "_printItemId": 15
-      },
-      {
-        "src": "tokoyami-a2.jpg",
-        "dateAdded": "2026-08-06",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "tokoyami-a2.jpg",
-        "_file": {},
-        "_printItemId": 15
-      },
-      {
-        "src": "tokoyami-a3.jpg",
-        "dateAdded": "2026-08-06",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "tokoyami-a3.jpg",
-        "_file": {},
-        "_printItemId": 15
-      },
-      {
-        "src": "tokoyami-a4.jpg",
-        "dateAdded": "2026-08-06",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "tokoyami-a4.jpg",
-        "_file": {},
-        "_printItemId": 15
-      },
-      {
-        "src": "tokoyami-b1.jpg",
-        "dateAdded": "2026-08-06",
-        "isFeatured": false,
-        "isNew": true,
-        "alt": "tokoyami-b1.jpg",
-        "_file": {},
-        "_printItemId": 15
+        "_printItemId": "new-1786052456109"
       }
     ],
     "description": "Tokoyami Fumikage from Class-1A My Hero Academia ",
