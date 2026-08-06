@@ -1,5 +1,52 @@
 [
   {
+    "name": "Julius",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata 2026 D1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "6-4R-1786008659795",
+        "printId": "6",
+        "title": "Loki Laufeyson",
+        "image": "/shop/prints-thumbnails/6/loki-a3.png",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "loki-a2.png"
+      },
+      {
+        "id": "11-4R-1786008669821",
+        "printId": 11,
+        "title": "Kahaku",
+        "image": "/shop/prints-thumbnails/11/kahaku-a4.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "kahaku-a4.jpg"
+      },
+      {
+        "id": "12-4R-1786008679678",
+        "printId": 12,
+        "title": "August Stilza",
+        "image": "/shop/prints-thumbnails/12/august-stilza-a3.jpg",
+        "size": "4R",
+        "price": 80,
+        "quantity": 1,
+        "item": "august-stilza-a3.jpg"
+      }
+    ],
+    "total": "₱240.00",
+    "notes": "",
+    "orderDate": "2026-08-06T09:36:36.814Z",
+    "orderId": "ORD-2026-08-06T09:36:36.814Z"
+  },
+  {
     "name": "rj",
     "email": "raffmartinez14@gmail.com",
     "phone": "09173256335",
@@ -41,7 +88,7 @@
         "item": "loki-a3.png"
       }
     ],
-    "total": "₱240.00",
+    "total": "â±240.00",
     "notes": "",
     "orderDate": "2026-08-05T12:59:13.510Z",
     "orderId": "ORD-2026-08-05T12:59:13.510Z"
@@ -78,7 +125,7 @@
         "item": "izumo-a3.JPG"
       }
     ],
-    "total": "â±160.00",
+    "total": "Ã¢ÂÂ±160.00",
     "notes": "",
     "orderDate": "2026-08-05T12:36:42.861Z",
     "orderId": "ORD-2026-08-05T12:36:42.861Z"
@@ -105,7 +152,7 @@
         "item": "neji-a1.jpg"
       }
     ],
-    "total": "â±80.00",
+    "total": "Ã¢ÂÂ±80.00",
     "notes": "meetup place jollibee",
     "orderDate": "2026-08-05T12:33:57.090Z",
     "orderId": "ORD-2026-08-05T12:33:57.090Z"
@@ -152,7 +199,7 @@
         "item": "august-stilza-a1.jpg"
       }
     ],
-    "total": "â±240.00",
+    "total": "Ã¢ÂÂ±240.00",
     "notes": "",
     "orderDate": "2026-08-05T12:24:24.285Z",
     "orderId": "ORD-2026-08-05T12:24:24.285Z"
@@ -249,7 +296,7 @@
         "item": "crawler-b1.png"
       }
     ],
-    "total": "â±575.00",
+    "total": "Ã¢ÂÂ±575.00",
     "notes": "",
     "orderDate": "2026-08-05T11:16:54.199Z",
     "orderId": "ORD-2026-08-05T11:16:54.199Z"
@@ -296,7 +343,7 @@
         "item": "mystery-saja-b3.JPG"
       }
     ],
-    "total": "â±240.00",
+    "total": "Ã¢ÂÂ±240.00",
     "notes": "",
     "orderDate": "2026-08-05T09:13:45.310Z",
     "orderId": "ORD-2026-08-05T09:13:45.310Z"
