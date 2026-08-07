@@ -12,7 +12,14 @@
     "brandLogo": "comic-odyssey.png",
     "locationLogo": "robinsons-galleria.webp",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
-    "images": ["a.jpeg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg"],
+    "images": [
+      { "src": "a.jpeg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpg" },
+      { "src": "d.jpg" },
+      { "src": "e.jpg" },
+      { "src": "f.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -27,7 +34,11 @@
     "brand": "Fully Booked",
     "brandLogo": "fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
-    "images": ["a.jpeg", "b.jpg", "c.jpg"],
+    "images": [
+      { "src": "a.jpeg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -43,7 +54,10 @@
     "brandLogo": "fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
     "eventSite": "https://www.facebook.com/share/19tAb8Fws5/",
-    "images": ["a.jpg", "b.jpg"],
+    "images": [
+      { "src": "a.jpg" },
+      { "src": "b.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -61,14 +75,14 @@
     "description": "A pop-up event celebrating the hit manga series Dandadan, featuring cosplay, games, and exclusive merchandise.",
     "eventSite": "https://www.facebook.com/philippinehobbycon/",
     "images": [
-      "announcement.jpg",
-      "event-1.jpg",
-      "event-2.jpg",
-      "stage-1.jpg",
-      "stage-2.jpg",
-      "stage-3.jpg",
-      "photoshoot-1.jpg",
-      "photoshoot-2.jpg"
+      { "src": "announcement.jpg" },
+      { "src": "event-1.jpg" },
+      { "src": "event-2.jpg" },
+      { "src": "stage-1.jpg" },
+      { "src": "stage-2.jpg" },
+      { "src": "stage-3.jpg" },
+      { "src": "photoshoot-1.jpg" },
+      { "src": "photoshoot-2.jpg" }
     ],
     "tags": ["paid"]
   },
@@ -87,11 +101,11 @@
     "description": "A spooky celebration of Halloween with themed activities, games, and a cosplay competition for kids.",
     "eventSite": "https://www.facebook.com/share/18j3uMC6Lz/",
     "images": [
-      "a-announcement.jpg",
-      "b-saja-boys.jpg",
-      "c-huntrix.jpg",
-      "d-saja-meet-and-greet.jpg",
-      "e-edit.jpg"
+      { "src": "a-announcement.jpg" },
+      { "src": "b-saja-boys.jpg" },
+      { "src": "c-huntrix.jpg" },
+      { "src": "d-saja-meet-and-greet.jpg" },
+      { "src": "e-edit.jpg" }
     ],
     "tags": ["paid"]
   },
@@ -109,7 +123,14 @@
     "locationLogo": "mitsukoshi.jpeg",
     "description": "A unique event held in a Japanese themed mall in partnership with CO the Collectibles Store, celebrating the release of the \"KAYOU\" figure, featuring exclusive merchandise and a cosplay showcase.",
     "eventSite": "https://www.facebook.com/share/18ePsFxC3C/",
-    "images": ["a.jpg", "b.jpg", "c.jpeg", "d.jpeg", "e.jpg", "f.jpg"],
+    "images": [
+      { "src": "a.jpg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpeg" },
+      { "src": "d.jpeg" },
+      { "src": "e.jpg" },
+      { "src": "f.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -125,7 +146,14 @@
     "brandLogo": "warner-bros.png",
     "locationLogo": "sm-cinema-megamall.jpg",
     "description": "A special screening of the highly anticipated movie adaptation of the popular anime series Cells at Work, featuring a cosplay showcase and meet-and-greet with the cast.",
-    "images": ["a.jpg", "b.jpg", "c.jpeg", "d.jpg", "e.jpg", "f.jpg"],
+    "images": [
+      { "src": "a.jpg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpeg" },
+      { "src": "d.jpg" },
+      { "src": "e.jpg" },
+      { "src": "f.jpg" }
+    ],
     "tags": ["paid"]
   },
   {
@@ -142,7 +170,14 @@
     "locationLogo": "festival-mall.jpeg",
     "description": "An event celebrating all things hobby, from anime and manga to gaming and collectibles, featuring cosplay, competitions, and exclusive merchandise.",
     "eventSite": "https://www.facebook.com/philippinehobbycon/",
-    "images": ["a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg"],
+    "images": [
+      { "src": "a.jpg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpg" },
+      { "src": "d.jpg" },
+      { "src": "e.jpg" },
+      { "src": "f.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -160,7 +195,12 @@
     "description": "A Celebration of JAPAN's Anime, Games, Cosplay and Music!",
     "ticketsUrl": "https://tickets.otakupopfes.com",
     "eventSite": "https://www.otakupopfes.com",
-    "images": ["a.jpg", "c.jpg", "d.png", "e.jpg"],
+    "images": [
+      { "src": "a.jpg" },
+      { "src": "c.jpg" },
+      { "src": "d.png" },
+      { "src": "e.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -178,7 +218,9 @@
     "description": "A vibrant celebration of anime, games, and cosplay with exclusive merchandise and performances.",
     "ticketsUrl": "https://linker.liked.com/qv8Ul",
     "eventSite": "https://www.howlersfestival.com",
-    "images": ["howlers-4.jpg"],
+    "images": [
+      { "src": "howlers-4.jpg" }
+    ],
     "toDisplay": false,
     "tags": ["xdeal"]
   },
@@ -197,7 +239,17 @@
     "description": "A Healing Journey Series collaboration event.",
     "ticketsUrl": "",
     "eventSite": "",
-    "images": ["tomoro-coffee-amberland.png","a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg", "g.jpg", "h.jpg"],
+    "images": [
+      { "src": "tomoro-coffee-amberland.png" },
+      { "src": "a.jpg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpg" },
+      { "src": "d.jpg" },
+      { "src": "e.jpg" },
+      { "src": "f.jpg" },
+      { "src": "g.jpg" },
+      { "src": "h.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -215,7 +267,16 @@
     "description": "A special screening of the highly anticipated Marvel's Fantastic Four movie, featuring a cosplay showcase and giveaways.",
     "ticketsUrl": "",
     "eventSite": "",
-    "images": ["a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg", "g.jpg", "h.jpg"],
+    "images": [
+      { "src": "a.jpg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpg" },
+      { "src": "d.jpg" },
+      { "src": "e.jpg" },
+      { "src": "f.jpg" },
+      { "src": "g.jpg" },
+      { "src": "h.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -232,8 +293,10 @@
     "locationLogo": "filinvest.jpg",
     "description": "Gisingin ang mundo, the Philippines Music Festival",
     "ticketsUrl": "https://www.ticketmelon.com/praxis/FusionThePhilippinesMusicFestival",
-    "eventSite": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwikn-e4juiVAxWrplYBHaJDHEsQFnoECBkQAQ&url=https%3A%2F%2Fwww.facebook.com%2Ffusionphilippinemusicfestival%2F&usg=AOvVaw2Zh0anZzJNmhmGuPRpf9mv&opi=89978449",
-    "images": ["nescafe-fusion-2026.jpg","a.jpg", "b.jpg", "c.jpg"],
+    "eventSite": "https://www.facebook.com/fusionphilippinemusicfestival/",
+    "images": [
+      { "src": "nescafe-fusion-2026.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -251,7 +314,14 @@
     "description": "Special advance screening",
     "ticketsUrl": "",
     "eventSite": "",
-    "images": ["assclass.jpg","a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg"],
+    "images": [
+      { "src": "assclass.jpg" },
+      { "src": "a.jpg" },
+      { "src": "b.jpg" },
+      { "src": "c.jpg" },
+      { "src": "d.jpg" },
+      { "src": "e.jpg" }
+    ],
     "tags": ["xdeal"]
   },
   {
@@ -269,7 +339,12 @@
     "description": "Special advance screening",
     "ticketsUrl": "",
     "eventSite": "",
-    "images": ["tensura-10.jpg","a.png", "b.jpg", "c.jpg"],
+    "images": [
+      { "src": "tensura-10.jpg" },
+      { "src": "a.png" },
+      { "src": "b.jpg" },
+      { "src": "c.jpg" }
+    ],
     "tags": ["xdeal"]
   }
 ]

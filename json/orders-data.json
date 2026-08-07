@@ -31,7 +31,7 @@
         "item": "heiter-a2.jpg"
       }
     ],
-    "total": "₱160.00",
+    "total": "160.00",
     "notes": "",
     "orderDate": "2026-08-06T09:46:29.712Z",
     "orderId": "ORD-2026-08-06T09:46:29.712Z"
@@ -78,7 +78,7 @@
         "item": "crawler-b1.png"
       }
     ],
-    "total": "â±240.00",
+    "total": "240.00",
     "notes": "",
     "orderDate": "2026-08-06T09:41:06.063Z",
     "orderId": "ORD-2026-08-06T09:41:06.063Z"
@@ -125,7 +125,7 @@
         "item": "august-stilza-a3.jpg"
       }
     ],
-    "total": "Ã¢ÂÂ±240.00",
+    "total": "240.00",
     "notes": "",
     "orderDate": "2026-08-06T09:36:36.814Z",
     "orderId": "ORD-2026-08-06T09:36:36.814Z"
@@ -135,34 +135,51 @@
     "email": "raffmartinez14@gmail.com",
     "phone": "09173256335",
     "deliveryMethod": "pickup",
-    "eventName": "Tanabata d1",
+    "eventName": "Tanabata D1",
     "address": "",
     "city": "",
     "province": "",
     "zipCode": "",
     "items": [
       {
-        "id": "14-4R-1785934675018",
-        "printId": 14,
-        "title": "Guren x Zhongli",
-        "image": "/shop/prints-thumbnails/14/guren-zhongli-a1.jpg",
+        "id": "5-4R-1785935397355",
+        "printId": "5",
+        "title": "Okarun",
+        "image": "/shop/prints-thumbnails/5/okarun-c1.jpg",
         "size": "4R",
         "price": 80,
         "quantity": 1,
-        "item": "guren-zhongli-a1.jpg"
+        "item": "okarun-c1.jpg"
       },
       {
-        "id": "4-4R-1785934686505",
-        "printId": "4",
-        "title": "Himmel the Hero",
-        "image": "/shop/prints-thumbnails/4/himmel-a1.jpg",
+        "id": "3-4R-1785935416410",
+        "printId": "3",
+        "title": "White Blood Cell",
+        "image": "/shop/prints-thumbnails/3/wbc-a2.jpg",
         "size": "4R",
         "price": 80,
         "quantity": 1,
-        "item": "himmel-a1.jpg"
-      },
+        "item": "wbc-a2.jpg"
+      }
+    ],
+    "total": "160.00",
+    "notes": "",
+    "orderDate": "2026-08-05T13:10:39.664Z",
+    "orderId": "ORD-2026-08-05T13:10:39.664Z"
+  },
+  {
+    "name": "Raff",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tanabata D1",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
       {
-        "id": "6-4R-1785934692928",
+        "id": "6-4R-1785934948328",
         "printId": "6",
         "title": "Loki Laufeyson",
         "image": "/shop/prints-thumbnails/6/loki-a3.png",
@@ -172,10 +189,10 @@
         "item": "loki-a3.png"
       }
     ],
-    "total": "ÃÂ¢ÃÂÃÂ±240.00",
+    "total": "240.00",
     "notes": "",
-    "orderDate": "2026-08-05T12:59:13.510Z",
-    "orderId": "ORD-2026-08-05T12:59:13.510Z"
+    "orderDate": "2026-08-05T13:04:29.844Z",
+    "orderId": "ORD-2026-08-05T13:04:29.844Z"
   },
   {
     "name": "Raff Julius",
@@ -209,7 +226,7 @@
         "item": "izumo-a3.JPG"
       }
     ],
-    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±160.00",
+    "total": "160.00",
     "notes": "",
     "orderDate": "2026-08-05T12:36:42.861Z",
     "orderId": "ORD-2026-08-05T12:36:42.861Z"
@@ -236,7 +253,7 @@
         "item": "neji-a1.jpg"
       }
     ],
-    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±80.00",
+    "total": "80.00",
     "notes": "meetup place jollibee",
     "orderDate": "2026-08-05T12:33:57.090Z",
     "orderId": "ORD-2026-08-05T12:33:57.090Z"
@@ -283,7 +300,7 @@
         "item": "august-stilza-a1.jpg"
       }
     ],
-    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±240.00",
+    "total": "240.00",
     "notes": "",
     "orderDate": "2026-08-05T12:24:24.285Z",
     "orderId": "ORD-2026-08-05T12:24:24.285Z"
@@ -320,14 +337,14 @@
         "item": "august-stilza-a1.jpg"
       },
       {
-        "id": "2-4R-1785928528325",
-        "printId": "2",
-        "title": "Herman aka Waterboy",
-        "image": "/shop/prints-thumbnails/2/waterboy-d1.jpg",
+        "id": "4-4R-1785928528325",
+        "printId": "4",
+        "title": "Himmel the Hero",
+        "image": "/shop/prints-thumbnails/4/himmel-a1.jpg",
         "size": "4R",
         "price": 80,
         "quantity": 1,
-        "item": "waterboy-d1.jpg"
+        "item": "himmel-a1.jpg"
       },
       {
         "id": "2-4R-1785928534688",
@@ -380,7 +397,7 @@
         "item": "crawler-b1.png"
       }
     ],
-    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±575.00",
+    "total": "575.00",
     "notes": "",
     "orderDate": "2026-08-05T11:16:54.199Z",
     "orderId": "ORD-2026-08-05T11:16:54.199Z"
@@ -427,7 +444,7 @@
         "item": "mystery-saja-b3.JPG"
       }
     ],
-    "total": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ±240.00",
+    "total": "240.00",
     "notes": "",
     "orderDate": "2026-08-05T09:13:45.310Z",
     "orderId": "ORD-2026-08-05T09:13:45.310Z"

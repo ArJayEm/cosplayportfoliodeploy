@@ -6,23 +6,26 @@
       {
         "src": "neji-a1.jpg",
         "dateAdded": "2026-07-24",
-        "isFeatured": true,
+        "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "neji-a2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "neji-b1.jpg",
         "dateAdded": "2026-07-28",
-        "isFeatured": false,
+        "isFeatured": true,
         "isNew": true,
         "alt": "FB IMG 1770641740761",
+        "description": "",
         "_printItemId": "1"
       }
     ],
@@ -40,70 +43,80 @@
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-d2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-d3.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-d4.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-d5.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-d6.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-d7.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-c1.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-b1.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-b2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "waterboy-a1.jpg",
@@ -111,6 +124,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "Red Dianon Photography FB IMG 1770704460505",
+        "description": "",
         "_printItemId": "2"
       },
       {
@@ -119,6 +133,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "Studio shimeji FB IMG 1770710205737",
+        "description": "",
         "_file": {},
         "_printItemId": "2"
       }
@@ -137,14 +152,16 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "wbc-a2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "wbc-a3.png",
@@ -152,6 +169,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "wbc-a3.png",
+        "description": "Cosplay duo with me as AE 3803 aka RBC (Red Blood Cell)",
         "_file": {},
         "_printItemId": "3"
       }
@@ -170,21 +188,24 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "himmel-a2.jpg",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "himmel-b1.png",
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       }
     ],
     "description": "Himmel the Hero from Frieren: Beyond Journey's End.",
@@ -201,7 +222,8 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "okarun-b1.jpg",
@@ -209,6 +231,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000054089",
+        "description": "",
         "_file": {},
         "_printItemId": "5"
       },
@@ -218,6 +241,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000103559",
+        "description": "",
         "_file": {},
         "_printItemId": "5"
       }
@@ -236,28 +260,32 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "loki-a2.png",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "loki-a3.png",
         "dateAdded": "2026-07-24",
         "isFeatured": true,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "loki-b1.png",
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       }
     ],
     "description": "Loki Laufeyson as the God of Stories from the Loki Series S2 Finale, Marvel Cinematic Universe.",
@@ -274,14 +302,16 @@
         "dateAdded": "2026-07-27",
         "isFeatured": true,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "crawler-a2.png",
         "dateAdded": "2026-07-27",
         "isFeatured": false,
         "isNew": false,
-        "alt": ""
+        "alt": "",
+        "description": ""
       },
       {
         "src": "crawler-b1.png",
@@ -289,6 +319,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "crawler-b1.png",
+        "description": "",
         "_file": {},
         "_printItemId": "7"
       }
@@ -309,6 +340,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       },
       {
@@ -317,6 +349,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       },
       {
@@ -325,6 +358,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       },
       {
@@ -333,6 +367,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       },
       {
@@ -341,6 +376,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       },
       {
@@ -349,6 +385,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       },
       {
@@ -357,6 +394,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       },
       {
@@ -365,6 +403,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000032406",
+        "description": "",
         "_printItemId": 8
       }
     ],
@@ -383,6 +422,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "1000100484",
+        "description": "",
         "_printItemId": 9
       },
       {
@@ -391,6 +431,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "1000100487",
+        "description": "",
         "_printItemId": 9
       }
     ],
@@ -409,6 +450,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "1000100484",
+        "description": "",
         "_printItemId": 10
       },
       {
@@ -417,6 +459,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "izumo-a2.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 10
       },
@@ -426,6 +469,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "izumo-a3.JPG",
+        "description": "",
         "_file": {},
         "_printItemId": 10
       }
@@ -445,6 +489,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "",
+        "description": "",
         "_printItemId": 11
       },
       {
@@ -453,6 +498,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "kahaku-a2.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 11
       },
@@ -462,6 +508,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "kahaku-a3.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 11
       },
@@ -471,6 +518,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "kahaku-a4.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 11
       }
@@ -490,6 +538,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "august-stilza-a1.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 12
       },
@@ -499,6 +548,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "august-stilza-a2.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 12
       },
@@ -508,6 +558,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "august-stilza-a3.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 12
       },
@@ -517,6 +568,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "august-stilza-a4.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 12
       },
@@ -526,6 +578,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "august-stilza-a5.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 12
       },
@@ -535,6 +588,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "august-stilza-a6.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 12
       }
@@ -554,6 +608,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "nagisa-a1.png",
+        "description": "",
         "_file": {},
         "_printItemId": 13
       },
@@ -563,6 +618,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "nagisa-a2.png",
+        "description": "",
         "_file": {},
         "_printItemId": 13
       }
@@ -582,6 +638,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "guren-zhongli-a1.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 14
       },
@@ -591,11 +648,12 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "guren-zhongli-a2.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 14
       }
     ],
-    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸ Royal Winderland",
+    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nRoyal Winderland",
     "category": "anime, game, fantasy, male",
     "dateAdded": "2026-08-04"
   },
@@ -610,6 +668,7 @@
         "isFeatured": true,
         "isNew": true,
         "alt": "tokoyami-a1.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 15
       },
@@ -619,6 +678,7 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "tokoyami-a2.jpg",
+        "description": "",
         "_file": {},
         "_printItemId": 15
       }
