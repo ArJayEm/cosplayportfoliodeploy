@@ -34,7 +34,8 @@
     "total": "160.00",
     "notes": "",
     "orderDate": "2026-08-06T09:46:29.712Z",
-    "orderId": "ORD-2026-08-06T09:46:29.712Z"
+    "orderId": "ORD-2026-08-06T09:46:29.712Z",
+    "status": "packed"
   },
   {
     "name": "RJ M",
