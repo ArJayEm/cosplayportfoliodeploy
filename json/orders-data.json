@@ -82,7 +82,8 @@
     "total": "240.00",
     "notes": "",
     "orderDate": "2026-08-06T09:41:06.063Z",
-    "orderId": "ORD-2026-08-06T09:41:06.063Z"
+    "orderId": "ORD-2026-08-06T09:41:06.063Z",
+    "status": "shipped"
   },
   {
     "name": "Julius",
