@@ -36,7 +36,7 @@
   },
   {
     "id": "2",
-    "title": "Herman aka Waterboy",
+    "title": "Waterboy",
     "images": [
       {
         "src": "waterboy-d1.jpg",
@@ -134,6 +134,16 @@
         "isNew": true,
         "alt": "Studio shimeji FB IMG 1770710205737",
         "description": "",
+        "_file": {},
+        "_printItemId": "2"
+      },
+      {
+        "src": "waterboy-f1.jpg",
+        "dateAdded": "2026-08-07",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "waterboy-f1.jpg",
+        "description": "By Maker Photography",
         "_file": {},
         "_printItemId": "2"
       }
@@ -678,6 +688,36 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "tokoyami-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 15
+      },
+      {
+        "src": "tokoyami-a3.jpg",
+        "dateAdded": "2026-08-07",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "tokoyami-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 15
+      },
+      {
+        "src": "tokoyami-b1.jpg",
+        "dateAdded": "2026-08-07",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "tokoyami-b1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 15
+      },
+      {
+        "src": "tokoyami-a4.jpg",
+        "dateAdded": "2026-08-07",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "tokoyami-a4.jpg",
         "description": "",
         "_file": {},
         "_printItemId": 15
