@@ -6,21 +6,71 @@
     "title": "Free Comic Book Day",
     "location": "Comic Odyssey, Robinsons Galleria",
     "locationLink": "https://maps.app.goo.gl/8xqc1v4t1zqSQAuL6?g_st=ac",
-    "roles": ["Featured Cosplayer"],
-    "cosplays": ["God of Stories Loki"],
+    "roles": [
+      "Featured Cosplayer"
+    ],
+    "cosplays": [
+      "God of Stories Loki"
+    ],
     "brand": "Comic Odyssey",
     "brandLogo": "comic-odyssey.png",
     "locationLogo": "robinsons-galleria.webp",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
     "images": [
-      { "src": "a.jpeg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpg" },
-      { "src": "d.jpg" },
-      { "src": "e.jpg" },
-      { "src": "f.jpg" }
+      {
+        "src": "a.jpeg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "f.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 2,
@@ -29,17 +79,46 @@
     "title": "Free Comic Book Day",
     "location": "Fully Booked, BGC",
     "locationLink": "https://maps.app.goo.gl/q8JqyZfKbz3Tywj18?g_st=ac",
-    "roles": ["Featured Cosplayer"],
-    "cosplays": ["God of Stories Loki"],
+    "roles": [
+      "Featured Cosplayer"
+    ],
+    "cosplays": [
+      "God of Stories Loki"
+    ],
     "brand": "Fully Booked",
     "brandLogo": "fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
     "images": [
-      { "src": "a.jpeg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpg" }
+      {
+        "src": "a.jpeg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 3,
@@ -48,17 +127,39 @@
     "title": "Free Comic Book Day",
     "location": "Fully Booked, BGC",
     "locationLink": "https://maps.app.goo.gl/q8JqyZfKbz3Tywj18?g_st=ac",
-    "roles": ["Featured Cosplayer"],
-    "cosplays": ["Agent of Asgard Loki"],
+    "roles": [
+      "Featured Cosplayer"
+    ],
+    "cosplays": [
+      "Agent of Asgard Loki"
+    ],
     "brand": "Fully Booked",
     "brandLogo": "fully-booked.jpeg",
     "description": "A special event for comic enthusiasts to celebrate the world of comics.",
     "eventSite": "https://www.facebook.com/share/19tAb8Fws5/",
     "images": [
-      { "src": "a.jpg" },
-      { "src": "b.jpg" }
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 4,
@@ -67,24 +168,89 @@
     "title": "Dandadan Invasion",
     "location": "SM North EDSA, QC",
     "locationLink": "https://maps.app.goo.gl/Naxvavg2PkSdMyvJ7?g_st=ac",
-    "roles": ["Guest Cosplayer", "Judge"],
-    "cosplays": ["Okarun"],
+    "roles": [
+      "Guest Cosplayer",
+      "Judge"
+    ],
+    "cosplays": [
+      "Okarun"
+    ],
     "brand": "Hobby Con",
     "brandLogo": "hobby-con.jpg",
     "locationLogo": "sm-city-north-edsa.webp",
     "description": "A pop-up event celebrating the hit manga series Dandadan, featuring cosplay, games, and exclusive merchandise.",
     "eventSite": "https://www.facebook.com/philippinehobbycon/",
     "images": [
-      { "src": "announcement.jpg" },
-      { "src": "event-1.jpg" },
-      { "src": "event-2.jpg" },
-      { "src": "stage-1.jpg" },
-      { "src": "stage-2.jpg" },
-      { "src": "stage-3.jpg" },
-      { "src": "photoshoot-1.jpg" },
-      { "src": "photoshoot-2.jpg" }
+      {
+        "src": "announcement.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "event-1.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "event-2.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "stage-1.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "stage-2.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "stage-3.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "photoshoot-1.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "photoshoot-2.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["paid"]
+    "tags": [
+      "paid"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 5,
@@ -93,21 +259,65 @@
     "title": "Honmoon Halloween Party",
     "location": "Greenfield District, Mandaluyong City",
     "locationLink": "https://maps.app.goo.gl/eJuAVfvKQU7iwdwq8?g_st=ac",
-    "roles": ["Guest Cosplayer", "Talent"],
-    "cosplays": ["Mystery Saja"],
+    "roles": [
+      "Guest Cosplayer",
+      "Talent"
+    ],
+    "cosplays": [
+      "Mystery Saja"
+    ],
     "brand": "Greenfield District",
     "brandLogo": "greenfield.jpeg",
     "locationLogo": "food-truck.jpg",
     "description": "A spooky celebration of Halloween with themed activities, games, and a cosplay competition for kids.",
     "eventSite": "https://www.facebook.com/share/18j3uMC6Lz/",
     "images": [
-      { "src": "a-announcement.jpg" },
-      { "src": "b-saja-boys.jpg" },
-      { "src": "c-huntrix.jpg" },
-      { "src": "d-saja-meet-and-greet.jpg" },
-      { "src": "e-edit.jpg" }
+      {
+        "src": "a-announcement.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b-saja-boys.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c-huntrix.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d-saja-meet-and-greet.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e-edit.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["paid"]
+    "tags": [
+      "paid"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 6,
@@ -116,22 +326,72 @@
     "title": "the KAYOU Event",
     "location": "Mitsukoshi Mall, BGC",
     "locationLink": "https://maps.app.goo.gl/8wig3UTTE9nHWyHK6?g_st=ac",
-    "roles": ["Cosplayer"],
-    "cosplays": ["Himmel the Hero"],
+    "roles": [
+      "Cosplayer"
+    ],
+    "cosplays": [
+      "Himmel the Hero"
+    ],
     "brand": "CO the Collectibles Store",
     "brandLogo": "co-collectibles.png",
     "locationLogo": "mitsukoshi.jpeg",
     "description": "A unique event held in a Japanese themed mall in partnership with CO the Collectibles Store, celebrating the release of the \"KAYOU\" figure, featuring exclusive merchandise and a cosplay showcase.",
     "eventSite": "https://www.facebook.com/share/18ePsFxC3C/",
     "images": [
-      { "src": "a.jpg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpeg" },
-      { "src": "d.jpeg" },
-      { "src": "e.jpg" },
-      { "src": "f.jpg" }
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpeg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.jpeg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "f.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 7,
@@ -140,21 +400,72 @@
     "title": "Cells at Work Movie Premiere",
     "location": "SM Cinema Megamall, Mandaluyong City",
     "locationLink": "https://maps.app.goo.gl/GJLGv6ATbuMs5wG87?g_st=ac",
-    "roles": ["Featured Cosplayer"],
-    "cosplays": ["U-1146", "WBC"],
+    "roles": [
+      "Featured Cosplayer"
+    ],
+    "cosplays": [
+      "U-1146",
+      "WBC"
+    ],
     "brand": "Warner Bros.",
     "brandLogo": "warner-bros.png",
     "locationLogo": "sm-cinema-megamall.jpg",
     "description": "A special screening of the highly anticipated movie adaptation of the popular anime series Cells at Work, featuring a cosplay showcase and meet-and-greet with the cast.",
     "images": [
-      { "src": "a.jpg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpeg" },
-      { "src": "d.jpg" },
-      { "src": "e.jpg" },
-      { "src": "f.jpg" }
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpeg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "f.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["paid"]
+    "tags": [
+      "paid"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 8,
@@ -163,22 +474,74 @@
     "title": "Hobby Con",
     "location": "Festival Mall Alabang, Muntinlupa City",
     "locationLink": "https://maps.app.goo.gl/Bagei1v4XqGqMJDZ9?g_st=ac",
-    "roles": ["Guest Cosplayer", "Content Creator"],
-    "cosplays": ["Neji Hyuga", "Waterboy"],
+    "roles": [
+      "Guest Cosplayer",
+      "Content Creator"
+    ],
+    "cosplays": [
+      "Neji Hyuga",
+      "Waterboy"
+    ],
     "brand": "Hobby Con",
     "brandLogo": "hobby-con.jpg",
     "locationLogo": "festival-mall.jpeg",
     "description": "An event celebrating all things hobby, from anime and manga to gaming and collectibles, featuring cosplay, competitions, and exclusive merchandise.",
     "eventSite": "https://www.facebook.com/philippinehobbycon/",
     "images": [
-      { "src": "a.jpg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpg" },
-      { "src": "d.jpg" },
-      { "src": "e.jpg" },
-      { "src": "f.jpg" }
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "f.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 9,
@@ -187,8 +550,14 @@
     "title": "Otaku Pop Fes",
     "location": "Okada Manila",
     "locationLink": "https://maps.app.goo.gl/LZXixurAMMQZM1ha8?g_st=ac",
-    "roles": ["Cosplayer","Content Creator"],
-    "cosplays": ["Haruichi Izumo", "Stark Waltz"],
+    "roles": [
+      "Cosplayer",
+      "Content Creator"
+    ],
+    "cosplays": [
+      "Haruichi Izumo",
+      "Stark Waltz"
+    ],
     "brand": "Otaku Pop Fes",
     "brandLogo": "opff-logo-2.png",
     "locationLogo": "okada-manila-logo.jpg",
@@ -196,12 +565,44 @@
     "ticketsUrl": "https://tickets.otakupopfes.com",
     "eventSite": "https://www.otakupopfes.com",
     "images": [
-      { "src": "a.jpg" },
-      { "src": "c.jpg" },
-      { "src": "d.png" },
-      { "src": "e.jpg" }
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.png",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 10,
@@ -210,7 +611,9 @@
     "title": "Howler's Festival",
     "location": "ASEANA Concert Grounds, Paranaque City",
     "locationLink": "https://maps.app.goo.gl/5uUsjHTbWn4xcAS28?g_st=ac",
-    "roles": ["Content Creator"],
+    "roles": [
+      "Content Creator"
+    ],
     "cosplays": [],
     "brand": "Howler's Festival",
     "brandLogo": "howlers-4.jpg",
@@ -219,10 +622,20 @@
     "ticketsUrl": "https://linker.liked.com/qv8Ul",
     "eventSite": "https://www.howlersfestival.com",
     "images": [
-      { "src": "howlers-4.jpg" }
+      {
+        "src": "howlers-4.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
     "toDisplay": false,
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 11,
@@ -231,8 +644,13 @@
     "title": "TOMORO Coffee - Amberland Grand Opening",
     "location": "Amberland Plaza, Pasig City",
     "locationLink": "https://share.google/z0vsBaKKBK7JiLBZx",
-    "roles": ["Featured Cosplayer", "Content Creator"],
-    "cosplays": ["Heiter"],
+    "roles": [
+      "Featured Cosplayer",
+      "Content Creator"
+    ],
+    "cosplays": [
+      "Heiter"
+    ],
     "brand": "TOMORO Coffee Philippines",
     "brandLogo": "tomoro-coffee-ph.png",
     "locationLogo": "",
@@ -240,17 +658,84 @@
     "ticketsUrl": "",
     "eventSite": "",
     "images": [
-      { "src": "tomoro-coffee-amberland.png" },
-      { "src": "a.jpg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpg" },
-      { "src": "d.jpg" },
-      { "src": "e.jpg" },
-      { "src": "f.jpg" },
-      { "src": "g.jpg" },
-      { "src": "h.jpg" }
+      {
+        "src": "tomoro-coffee-amberland.png",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "f.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "g.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "h.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 12,
@@ -259,8 +744,12 @@
     "title": "Marvel's Fantastic Four Movie Premiere",
     "location": "Central Square Cinema, BGC",
     "locationLink": "https://maps.app.goo.gl/Re2gGCveQVaWruC88",
-    "roles": ["Featured Cosplayer"],
-    "cosplays": ["God of Stories Loki"],
+    "roles": [
+      "Featured Cosplayer"
+    ],
+    "cosplays": [
+      "God of Stories Loki"
+    ],
     "brand": "Globe",
     "brandLogo": "globe.png",
     "locationLogo": "central-square-cinema.jpg",
@@ -268,16 +757,76 @@
     "ticketsUrl": "",
     "eventSite": "",
     "images": [
-      { "src": "a.jpg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpg" },
-      { "src": "d.jpg" },
-      { "src": "e.jpg" },
-      { "src": "f.jpg" },
-      { "src": "g.jpg" },
-      { "src": "h.jpg" }
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "f.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "g.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "h.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 13,
@@ -286,7 +835,9 @@
     "title": "Nescafe: FUSION",
     "location": "Filinvest City Events Grounds, Alabang, Muntinlupa City",
     "locationLink": "https://maps.app.goo.gl/fzWeUriZojRgvjAr6",
-    "roles": ["Content Creator"],
+    "roles": [
+      "Content Creator"
+    ],
     "cosplays": [],
     "brand": "Nescafe",
     "brandLogo": "fusion.jpg",
@@ -295,9 +846,20 @@
     "ticketsUrl": "https://www.ticketmelon.com/praxis/FusionThePhilippinesMusicFestival",
     "eventSite": "https://www.facebook.com/fusionphilippinemusicfestival/",
     "images": [
-      { "src": "nescafe-fusion-2026.jpg" }
+      {
+        "src": "nescafe-fusion-2026.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 14,
@@ -306,8 +868,12 @@
     "title": "Assasination Classroom the Movie: Our Time Fan Screening",
     "location": "SM North Edsa The Block Cinema",
     "locationLink": "https://maps.app.goo.gl/WFKQSHiUWpvuvREX8",
-    "roles": ["Cosplayer"],
-    "cosplays": ["Nagisa Shiota"],
+    "roles": [
+      "Cosplayer"
+    ],
+    "cosplays": [
+      "Nagisa Shiota"
+    ],
     "brand": "Muse PH",
     "brandLogo": "muse-ph.jpg",
     "locationLogo": "sm-city-north-edsa.webp",
@@ -315,14 +881,60 @@
     "ticketsUrl": "",
     "eventSite": "",
     "images": [
-      { "src": "assclass.jpg" },
-      { "src": "a.jpg" },
-      { "src": "b.jpg" },
-      { "src": "c.jpg" },
-      { "src": "d.jpg" },
-      { "src": "e.jpg" }
+      {
+        "src": "assclass.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "a.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "d.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "e.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
   },
   {
     "id": 15,
@@ -331,8 +943,12 @@
     "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
     "location": "SM North Edsa The Block Cinema",
     "locationLink": "https://maps.app.goo.gl/WFKQSHiUWpvuvREX8",
-    "roles": ["Cosplayer"],
-    "cosplays": ["Rimuru Tempest"],
+    "roles": [
+      "Cosplayer"
+    ],
+    "cosplays": [
+      "Rimuru Tempest"
+    ],
     "brand": "Muse PH",
     "brandLogo": "muse-ph.jpg",
     "locationLogo": "sm-city-north-edsa.webp",
@@ -340,11 +956,88 @@
     "ticketsUrl": "",
     "eventSite": "",
     "images": [
-      { "src": "tensura-10.jpg" },
-      { "src": "a.png" },
-      { "src": "b.jpg" },
-      { "src": "c.jpg" }
+      {
+        "src": "tensura-10.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "a.png",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "b.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      },
+      {
+        "src": "c.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": false,
+        "alt": "",
+        "description": ""
+      }
     ],
-    "tags": ["xdeal"]
+    "tags": [
+      "xdeal"
+    ],
+    "toDisplay": true,
+    "dateAdded": "2026-08-12"
+  },
+  {
+    "toDisplay": true,
+    "id": 16,
+    "date": "AUGUST 29, 2026",
+    "year": 2026,
+    "title": "Cosplay Contest by Hobby Con",
+    "location": "SM Marikina",
+    "locationLink": "https://maps.app.goo.gl/wr3EuTY1jUn3N98f9",
+    "roles": [
+      "Guest Cosplayer",
+      "Judge"
+    ],
+    "cosplays": [
+      "Rimuru Tempest"
+    ],
+    "brand": "Hobby Con",
+    "brandLogo": "hobby-con.jpg",
+    "locationLogo": "sm-city-marikina.png",
+    "description": "A cosplay event focused on gaming",
+    "images": [
+      {
+        "src": "a.png",
+        "dateAdded": "2026-08-12",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "a.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "tensura-10.jpg",
+        "dateAdded": "2026-08-12",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "tensura-10.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      }
+    ],
+    "tags": "anime,game,contest,cosplay,sm,sm marikina",
+    "dateAdded": "2026-08-12"
   }
 ]
+

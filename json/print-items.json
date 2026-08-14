@@ -30,13 +30,13 @@
       }
     ],
     "description": "Hyuga Neji from Naruto Shippuden in full cosplay detail.",
-    "category": "anime, ninjan naruto",
+    "category": "anime, ninja, naruto",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
   {
     "id": "2",
-    "title": "Herman aka Waterboy",
+    "title": "Waterboy",
     "images": [
       {
         "src": "waterboy-d1.jpg",
@@ -145,7 +145,7 @@
   },
   {
     "id": "3",
-    "title": "White Blood Cell",
+    "title": "U-1146 WBC",
     "images": [
       {
         "src": "wbc-a1.jpg",
@@ -286,16 +286,46 @@
         "isNew": false,
         "alt": "",
         "description": ""
+      },
+      {
+        "src": "loki-c1.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "loki-c1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": "6"
+      },
+      {
+        "src": "loki-c2.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "loki-c2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": "6"
+      },
+      {
+        "src": "loki-d1.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "loki-d1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": "6"
       }
     ],
     "description": "Loki Laufeyson as the God of Stories from the Loki Series S2 Finale, Marvel Cinematic Universe.",
-    "category": "marvel, mcu, loki, superhero",
+    "category": "marvel, mcu, loki, superhero, western",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
   {
     "id": "7",
-    "title": "Koichi Haimawari aka the Crawler",
+    "title": "The Crawler",
     "images": [
       {
         "src": "crawler-a1.png",
@@ -440,7 +470,7 @@
     "dateAdded": "2026-07-28"
   },
   {
-    "toDisplay": false,
+    "toDisplay": true,
     "id": 10,
     "title": "Haruichi Izumo",
     "images": [
@@ -660,7 +690,7 @@
   {
     "toDisplay": true,
     "id": 15,
-    "title": "Tokoyami Fumikage",
+    "title": "Tsukuyomi",
     "images": [
       {
         "src": "tokoyami-a1.jpg",
@@ -681,10 +711,410 @@
         "description": "",
         "_file": {},
         "_printItemId": 15
+      },
+      {
+        "src": "tokoyami-b1.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "tokoyami-b1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 15
       }
     ],
     "description": "Tokoyami Fumikage from Class-1A My Hero Academia ",
     "category": "anime,male,MHA,My Hero Academia,hero",
     "dateAdded": "2026-08-06"
+  },
+  {
+    "toDisplay": true,
+    "id": 16,
+    "title": "Aki Hayakawa",
+    "images": [
+      {
+        "src": "aki-hayakawa-a1.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "aki-hayakawa-a1.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "aki-hayakawa-a2.jpeg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "aki-hayakawa-a2.jpeg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "aki-hayakawa-b1.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "aki-hayakawa-b1.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "aki-hayakawa-b3.jpeg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "aki-hayakawa-b3.jpeg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "aki-hayakawa-b4.jpeg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "aki-hayakawa-b4.jpeg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "aki-hayakawa-b5.jpeg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "aki-hayakawa-b5.jpeg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "aki-hayakawa-b2.jpeg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "aki-hayakawa-b2.jpeg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      }
+    ],
+    "description": "From the manga and anime Chainsaw Man, a Public Safety Devil Hunter working in Makima’s special squad.",
+    "category": "anime, male, devil, cms, chainsaw man, aki hayakawa",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "toDisplay": true,
+    "id": 17,
+    "title": "Zhongli (Hanfu version)",
+    "images": [
+      {
+        "src": "zhongli-hanfu-a1.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "zhongli-hanfu-a1.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 17
+      },
+      {
+        "src": "zhongli-hanfu-a2.jpg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "zhongli-hanfu-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 17
+      },
+      {
+        "src": "zhongli-hanfu-a3.jpg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "zhongli-hanfu-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 17
+      }
+    ],
+    "description": "From the game Genshin Impact, Zhongli is a playable 5-star Geo character.",
+    "category": "male,game,zhongli,morax",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "toDisplay": true,
+    "id": 18,
+    "title": "Coriolanus Snow",
+    "images": [
+      {
+        "src": "corio-a1.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "corio-a1.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 18
+      },
+      {
+        "src": "corio-a2.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "corio-a2.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 18
+      },
+      {
+        "src": "corio-a4.jpeg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "corio-a4.jpeg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 18
+      },
+      {
+        "src": "corio-a5.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "corio-a5.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 18
+      },
+      {
+        "src": "corio-a3.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "corio-a3.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 18
+      }
+    ],
+    "description": "Played by Tom Blythe, a younger Coriolinus Snow is the main character of the 2023 dystopian film the Ballad of Songbirds and Snakes",
+    "category": "male,movie,tbosas,thg,corio,coriolanus snow,hunger games",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "toDisplay": true,
+    "id": 19,
+    "title": "Arthur Fleck, Joker",
+    "images": [
+      {
+        "src": "joker-a1.jpg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "joker-a1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": "new-1786643595293"
+      },
+      {
+        "src": "joker-a2.jpg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "joker-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": "new-1786643595293"
+      },
+      {
+        "src": "joker-b2.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "joker-b2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 19
+      },
+      {
+        "src": "joker-b1.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "joker-b1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 19
+      }
+    ],
+    "description": "From the DC Universe, played by Joaquin Phoenix in the 2019 film Joker.",
+    "category": "male,dc,western,villain,joker,batman villain,movie",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "toDisplay": true,
+    "id": 20,
+    "title": "Galghali",
+    "images": [
+      {
+        "src": "galghali-a1.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "galghali-a1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 20
+      },
+      {
+        "src": "galghali-a3.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "galghali-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 20
+      },
+      {
+        "src": "galghali-a5.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "galghali-a5.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 20
+      },
+      {
+        "src": "galghali-a2.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "galghali-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 20
+      },
+      {
+        "src": "galghali-a4.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "galghali-a4.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 20
+      }
+    ],
+    "description": "Galgali, better known as the Violence Fiend, is a notable supporting character from the dark fantasy anime and manga series Chainsaw Man. He operates as a Public Safety Devil Hunter under Tokyo Special Division 4.",
+    "category": "anime, male, devil, cms, chainsaw man, galghali, violence fiend",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "toDisplay": true,
+    "id": 21,
+    "title": "Haruta Shigemo",
+    "images": [
+      {
+        "src": "haruta-shigemo-a1.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "haruta-shigemo-a1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 21
+      },
+      {
+        "src": "haruta-shigemo-a2.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "haruta-shigemo-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 21
+      },
+      {
+        "src": "haruta-shigemo-a3.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "haruta-shigemo-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 21
+      },
+      {
+        "src": "haruta-shigemo-a4.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "haruta-shigemo-a4.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 21
+      },
+      {
+        "src": "haruta-shigemo-a5.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "haruta-shigemo-a5.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 21
+      }
+    ],
+    "description": "Haruta Shigemo is a minor antagonist and a sadistic curse user from the dark fantasy anime and manga series Jujutsu Kaisen. He operates as an ally to Kenjaku and the group of special-grade cursed spirits.",
+    "category": "male, anime, cursed, haruta shigemo, jjk, jujutsu kaisen",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "toDisplay": true,
+    "id": 22,
+    "title": "Gojo Satoru",
+    "images": [
+      {
+        "src": "gojo-satoru-a1.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "gojo-satoru-a1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 22
+      },
+      {
+        "src": "gojo-satoru-a3.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "gojo-satoru-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 22
+      },
+      {
+        "src": "gojo-satoru-a2.jpg",
+        "dateAdded": "2026-08-14",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "gojo-satoru-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 22
+      }
+    ],
+    "description": "Satoru Gojo is the deuteragonist and most powerful modern sorcerer from the dark fantasy anime and manga series Jujutsu Kaisen. He works as a special-grade jujutsu sorcerer and a teacher at Tokyo Jujutsu High.",
+    "category": "anime, male, cursed, gojo satoru, jjk, jujutsu kaisen",
+    "dateAdded": "2026-08-14"
   }
 ]
