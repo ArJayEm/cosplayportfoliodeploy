@@ -247,7 +247,7 @@
       }
     ],
     "description": "Okarun from Dandadan in in his normal form.",
-    "category": "anime, dandadan",
+    "category": "anime, dandadan, male, okarun",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },
@@ -803,7 +803,7 @@
         "_printItemId": 16
       }
     ],
-    "description": "From the manga and anime Chainsaw Man, a Public Safety Devil Hunter working in Makimaâs special squad.",
+    "description": "From the manga and anime Chainsaw Man, a Public Safety Devil Hunter working in Makima’s special squad.",
     "category": "anime, male, devil, cms, chainsaw man, aki hayakawa",
     "dateAdded": "2026-08-13"
   },
@@ -1155,6 +1155,46 @@
     ],
     "description": "Yor Forger is one of the main protagonists of the hit action-comedy anime and manga series Spy × Family. Within the story's fake family dynamic, she plays the role of Loid Forger's wife and Anya Forger's adoptive mother.",
     "category": "female, anime, spy x family, spy",
-    "dateAdded": "2026-08-15"
+    "dateAdded": "2026-08-15t10:00:14"
+  },
+  {
+    "toDisplay": true,
+    "id": 24,
+    "title": "Loid Forger",
+    "images": [
+      {
+        "src": "loid-forger-a3.jpg",
+        "dateAdded": "2026-08-15",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "loid-forger-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 24
+      },
+      {
+        "src": "loid-forger-a2.jpg",
+        "dateAdded": "2026-08-15",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "loid-forger-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 24
+      },
+      {
+        "src": "loid-forger-a1.jpg",
+        "dateAdded": "2026-08-15",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "loid-forger-a1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 24
+      }
+    ],
+    "description": "Loid Forger is the main protagonist of the action-comedy anime and manga series Spy × Family. Within the fake family he constructed for his mission, he plays the role of Yor Forger's husband and Anya Forger's adoptive father.",
+    "category": "anime, male, spy, spy x family",
+    "dateAdded": "2026-08-15T11:14:00"
   }
 ]

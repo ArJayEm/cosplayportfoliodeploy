@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "label": "Coscard",
+    "label": "Photocard",
     "price": 15,
     "dimensions": "3.375\" x 2.125\"",
     "isInStock": true,
-    "stockCount": 20
+    "stockCount": 40
   },
   {
     "id": "2",
