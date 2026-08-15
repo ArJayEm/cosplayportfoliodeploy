@@ -803,7 +803,7 @@
         "_printItemId": 16
       }
     ],
-    "description": "From the manga and anime Chainsaw Man, a Public Safety Devil Hunter working in Makima’s special squad.",
+    "description": "From the manga and anime Chainsaw Man, a Public Safety Devil Hunter working in Makimaâs special squad.",
     "category": "anime, male, devil, cms, chainsaw man, aki hayakawa",
     "dateAdded": "2026-08-13"
   },
@@ -1116,5 +1116,45 @@
     "description": "Satoru Gojo is the deuteragonist and most powerful modern sorcerer from the dark fantasy anime and manga series Jujutsu Kaisen. He works as a special-grade jujutsu sorcerer and a teacher at Tokyo Jujutsu High.",
     "category": "anime, male, cursed, gojo satoru, jjk, jujutsu kaisen",
     "dateAdded": "2026-08-14"
+  },
+  {
+    "toDisplay": true,
+    "id": 23,
+    "title": "Yor Forger",
+    "images": [
+      {
+        "src": "yor-forger-a3.jpg",
+        "dateAdded": "2026-08-15",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "yor-forger-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 23
+      },
+      {
+        "src": "yor-forger-a1.jpg",
+        "dateAdded": "2026-08-15",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "yor-forger-a1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 23
+      },
+      {
+        "src": "yor-forger-a2.png",
+        "dateAdded": "2026-08-15",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "yor-forger-a2.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 23
+      }
+    ],
+    "description": "Yor Forger is one of the main protagonists of the hit action-comedy anime and manga series Spy × Family. Within the story's fake family dynamic, she plays the role of Loid Forger's wife and Anya Forger's adoptive mother.",
+    "category": "female, anime, spy x family, spy",
+    "dateAdded": "2026-08-15"
   }
 ]
