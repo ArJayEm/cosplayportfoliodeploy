@@ -7,9 +7,8 @@
     "color": "bg-blue-600",
     "followers": 5314,
     "toDisplay": true,
-    "lastUpdated": "2026-08-24 10:48 AM",
-    "images": [],
-    "eventDate": "undefined-01-01"
+    "lastUpdated": "2026-08-06 05:17 PM",
+    "images": []
   },
   {
     "id": 2,
@@ -17,11 +16,10 @@
     "platform": "Facebook",
     "username": "arjayem.cos",
     "color": "bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400",
-    "followers": 2459,
+    "followers": 2447,
     "toDisplay": true,
-    "lastUpdated": "2026-08-24 10:48 AM",
-    "images": [],
-    "eventDate": "undefined-01-01"
+    "lastUpdated": "2026-08-06 05:17 PM",
+    "images": []
   },
   {
     "id": 3,
@@ -29,11 +27,10 @@
     "platform": "TikTok",
     "username": "arjayem.cos",
     "color": "bg-gradient-to-br from-black-500 to-white-500",
-    "followers": 7147,
+    "followers": 7140,
     "toDisplay": true,
-    "lastUpdated": "2026-08-24 10:48 AM",
-    "images": [],
-    "eventDate": "undefined-01-01"
+    "lastUpdated": "2026-08-06 05:17 PM",
+    "images": []
   },
   {
     "id": 4,
@@ -42,9 +39,8 @@
     "username": "arjayem.cosplay",
     "followers": 4,
     "toDisplay": false,
-    "lastUpdated": "2026-08-24 10:48 AM",
-    "images": [],
-    "eventDate": "undefined-01-01"
+    "lastUpdated": "2026-08-06 05:17 PM",
+    "images": []
   },
   {
     "id": 5,
@@ -53,8 +49,7 @@
     "username": "arjayem.cosplay",
     "followers": 45555,
     "toDisplay": false,
-    "lastUpdated": "2026-08-24 10:48 AM",
-    "images": [],
-    "eventDate": "undefined-01-01"
+    "lastUpdated": "2026-08-06 05:17 PM",
+    "images": []
   }
 ]
