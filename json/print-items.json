@@ -136,10 +136,20 @@
         "description": "",
         "_file": {},
         "_printItemId": "2"
+      },
+      {
+        "src": "waterboy-f1.JPG",
+        "dateAdded": "2026-08-25",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "waterboy-f1.JPG",
+        "description": "Maker Photography",
+        "_file": {},
+        "_printItemId": "2"
       }
     ],
     "description": "Herman aka Waterboy from Dispatch in character.",
-    "category": "animation, dispatch, gaming",
+    "category": "animation, dispatch, gaming, western",
     "dateAdded": "2026-07-24",
     "toDisplay": true
   },

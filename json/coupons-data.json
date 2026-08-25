@@ -15,15 +15,30 @@
   {
     "id": "welcome",
     "code": "WELCOME",
-    "description": "First time Buyers Promo - ₱50 OFF",
+    "description": "First time Buyers Promo",
     "discountType": "fixed",
-    "discountAmount": 50,
-    "minimumSpend": 150,
+    "discountAmount": 20,
+    "minimumSpend": 0,
     "maxUses": 1,
     "usedCount": 0,
     "startDate": "2026-08-19T00:00:00.000",
     "endDate": "2026-09-26T16:59",
     "isActive": true,
   "isFirstTimeUser": true
+  },
+  {
+    "id": "bulk3",
+    "code": "BULK3",
+    "description": "Buy 3 or more prints and get ₱40 OFF!",
+    "discountType": "fixed",
+    "discountAmount": 40,
+    "minimumSpend": 0,
+    "minimumQuantity": 3,
+    "maxUses": 999,
+    "usedCount": 0,
+    "startDate": "2026-08-20T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.999Z",
+    "isActive": true,
+    "isFirstTimeUser": false
   }
 ]
