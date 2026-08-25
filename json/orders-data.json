@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "name": "rjm",
+    "email": "raffmartinez14@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tech & Play Cosplay Ready! 2026",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "8-A4-1787132178395",
+        "printId": 8,
+        "title": "Mystery Saja",
+        "image": "/shop/prints-thumbnails/8/mystery-saja-b1.JPG",
+        "size": "A4",
+        "price": 150,
+        "quantity": 1,
+        "item": "mystery-saja-b1.JPG"
+      }
+    ],
+    "subTotal": "150.00",
+    "couponCode": "WELCOME (-₱50)",
+    "total": "100.00",
+    "notes": "",
+    "orderDate": "2026-08-19T09:40:39.677Z",
+    "orderId": "RJM40:39.677Z22",
+    "isFirstOrder": true,
+    "isFirstTimeUser": true
+  },
+  {
+    "name": "rjm",
+    "email": "arjayem.gaming@gmail.com",
+    "phone": "09173256335",
+    "deliveryMethod": "pickup",
+    "eventName": "Tech & Play Cosplay Ready! 2026",
+    "address": "",
+    "city": "",
+    "province": "",
+    "zipCode": "",
+    "items": [
+      {
+        "id": "14-A4-1787131996260",
+        "printId": 14,
+        "title": "Guren x Zhongli",
+        "image": "/shop/prints-thumbnails/14/guren-zhongli-a1.jpg",
+        "size": "A4",
+        "price": 150,
+        "quantity": 1,
+        "item": "guren-zhongli-a1.jpg"
+      },
+      {
+        "id": "14-A4-1787131998169",
+        "printId": 14,
+        "title": "Guren x Zhongli",
+        "image": "/shop/prints-thumbnails/14/guren-zhongli-a2.jpg",
+        "size": "A4",
+        "price": 150,
+        "quantity": 1,
+        "item": "guren-zhongli-a2.jpg"
+      }
+    ],
+    "subTotal": "300.00",
+    "couponCode": "WELCOME (-₱50)",
+    "total": "250.00",
+    "notes": "",
+    "orderDate": "2026-08-19T09:35:33.419Z",
+    "orderId": "RJM35:33.419Z56",
+    "isFirstOrder": true,
+    "isFirstTimeUser": true
+  }
+]

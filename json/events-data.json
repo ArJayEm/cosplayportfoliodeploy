@@ -1000,12 +1000,11 @@
     "id": 16,
     "date": "AUGUST 29, 2026",
     "year": 2026,
-    "title": "Cosplay Contest by Hobby Con",
-    "location": "SM Marikina",
+    "title": "Tech & Play Cosplay Ready! by Hobby Con",
+    "location": "SM City Marikina, Ground Level",
     "locationLink": "https://maps.app.goo.gl/wr3EuTY1jUn3N98f9",
     "roles": [
-      "Guest Cosplayer",
-      "Judge"
+      "Cosplay Contest Judge"
     ],
     "cosplays": [
       "Rimuru Tempest"
@@ -1016,21 +1015,31 @@
     "description": "A cosplay event focused on gaming",
     "images": [
       {
-        "src": "a.png",
-        "dateAdded": "2026-08-12",
+        "src": "judge-banner.jpg",
+        "dateAdded": "2026-08-19",
         "isFeatured": true,
         "isNew": true,
-        "alt": "a.png",
+        "alt": "judge-banner.jpg",
         "description": "",
         "_file": {},
         "_printItemId": 16
       },
       {
-        "src": "tensura-10.jpg",
-        "dateAdded": "2026-08-12",
+        "src": "event-banner.jpg",
+        "dateAdded": "2026-08-18",
         "isFeatured": false,
         "isNew": true,
-        "alt": "tensura-10.jpg",
+        "alt": "event-banner.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "contest-banner.jpg",
+        "dateAdded": "2026-08-18",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "contest-banner.jpg",
         "description": "",
         "_file": {},
         "_printItemId": 16

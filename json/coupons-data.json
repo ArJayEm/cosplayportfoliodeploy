@@ -4,25 +4,26 @@
     "code": "FIRST5",
     "description": "Welcome discount - 10% OFF",
     "discountType": "percentage",
-    "discountAmount": 50,
+    "discountAmount": 10,
     "minimumSpend": 100,
     "maxUses": 5,
     "usedCount": 0,
     "startDate": "2026-08-19T00:00:00.000",
     "endDate": "2026-09-26T16:59",
-    "isActive": true
+    "isActive": false
   },
   {
-    "id": "welcome10",
-    "code": "WELCOME10",
-    "description": "First 10 Buyers Promo - ₱50 OFF",
+    "id": "welcome",
+    "code": "WELCOME",
+    "description": "First time Buyers Promo - ₱50 OFF",
     "discountType": "fixed",
     "discountAmount": 50,
     "minimumSpend": 150,
-    "maxUses": 10,
+    "maxUses": 1,
     "usedCount": 0,
     "startDate": "2026-08-19T00:00:00.000",
     "endDate": "2026-09-26T16:59",
-    "isActive": true
+    "isActive": true,
+  "isFirstTimeUser": true
   }
 ]
