@@ -12,14 +12,18 @@
     "location": "Festival Mall, Alabang",
     "image": "/a-neji.jpg",
     "isFeatured": true,
-    "tags": [
-      "ninja",
-      "naruto",
-      "male",
-      "anime"
-    ],
+    "tags": ["ninja", "naruto", "male", "anime"],
     "toDisplay": true,
-    "images": [],
+    "images": [
+      {
+        "src": "a-neji.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Hyuga Neji",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06"
   },
   {
@@ -34,16 +38,18 @@
     "location": "Festival Mall, Alabang",
     "image": "/b-waterboy.jpg",
     "isFeatured": true,
-    "tags": [
-      "game",
-      "gaming",
-      "superhero",
-      "male",
-      "sdn",
-      "dispatch"
-    ],
+    "tags": ["game", "gaming", "superhero", "male", "sdn", "dispatch"],
     "toDisplay": true,
-    "images": [],
+    "images": [
+      {
+        "src": "b-waterboy.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Herman aka Waterboy",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2026-02-08"
   },
@@ -59,13 +65,18 @@
     "image": "/portfolio-6.jpg",
     "location": "China Town, Ayala Malls Manila Bay",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "cells at work"
-    ],
+    "tags": ["anime", "male", "cells at work"],
     "toDisplay": true,
-    "images": [],
+    "images": [
+      {
+        "src": "portfolio-6.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "U-1146, WBC (White Blood Cell)",
+        "_printItemId": 2025
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2025-02-23"
   },
@@ -81,14 +92,18 @@
     "location": "Marikina City",
     "image": "/portfolio-7.JPG",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "kaijuno8",
-      "kaiju"
-    ],
+    "tags": ["anime", "male", "kaijuno8", "kaiju"],
     "toDisplay": true,
-    "images": [],
+    "images": [
+      {
+        "src": "portfolio-7.JPG",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Haruichi Izumo",
+        "_printItemId": 2025
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2025-10-12"
   },
@@ -104,14 +119,18 @@
     "location": "Food Truck Fest, Greenfield District",
     "image": "/7Y2A9571.JPG",
     "isFeatured": true,
-    "tags": [
-      "male",
-      "saja boys",
-      "animation",
-      "kdh"
-    ],
+    "tags": ["male", "saja boys", "animation", "kdh"],
     "toDisplay": true,
-    "images": [],
+    "images": [
+      {
+        "src": "7Y2A9571.JPG",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Mystery Saja",
+        "_printItemId": 2025
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2025-10-25"
   },
@@ -126,15 +145,19 @@
     "event": "CosMeet 2025 D2",
     "image": "/portfolio-3.png",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "hero",
-      "frieren"
-    ],
+    "tags": ["anime", "male", "hero", "frieren"],
     "toDisplay": true,
     "location": "Okada Manila",
-    "images": [],
+    "images": [
+      {
+        "src": "portfolio-3.png",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Himmel the Hero",
+        "_printItemId": 2025
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2025-04-24"
   },
@@ -149,14 +172,19 @@
     "event": "Dandadan @ SM North EDSA 2025",
     "image": "/portfolio-4.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "dandadan"
-    ],
+    "tags": ["anime", "male", "dandadan"],
     "toDisplay": true,
     "location": "The Block, SM North EDSA",
-    "images": [],
+    "images": [
+      {
+        "src": "portfolio-4.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Okarun",
+        "_printItemId": 2025
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2025-10-04"
   },
@@ -171,15 +199,19 @@
     "event": "Jujutsu Kaisen CG Photoshoot",
     "image": "/b-haruta.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "jjk",
-      "jujutsu kaisen"
-    ],
+    "tags": ["anime", "male", "jjk", "jujutsu kaisen"],
     "toDisplay": true,
     "location": "Central Square, 5th Ave, BGC",
-    "images": [],
+    "images": [
+      {
+        "src": "b-haruta.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Haruta Shigemo",
+        "_printItemId": 2024
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2024-02-03"
   },
@@ -194,16 +226,19 @@
     "event": "RenFaire 2024 D1",
     "image": "/c-loki.jpg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "mcu",
-      "marvel",
-      "loki"
-    ],
+    "tags": ["western", "male", "mcu", "marvel", "loki"],
     "toDisplay": true,
     "location": "Carantes Ancestral Park, Baguio",
-    "images": [],
+    "images": [
+      {
+        "src": "c-loki.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Loki Laufeyson (OC)",
+        "_printItemId": 2024
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2024-03-22"
   },
@@ -218,15 +253,19 @@
     "event": "RenFaire 2024 D2",
     "image": "/d-suneater.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "mha",
-      "superhero"
-    ],
+    "tags": ["anime", "male", "mha", "superhero"],
     "toDisplay": true,
     "location": "Carantes Ancestral Park, Baguio",
-    "images": [],
+    "images": [
+      {
+        "src": "d-suneater.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Tamaki Amajiki",
+        "_printItemId": 2024
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2024-03-23"
   },
@@ -241,15 +280,19 @@
     "event": "Cosplay Blitz 5 D1",
     "image": "/e-corio.png",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "thg",
-      "tbosas"
-    ],
+    "tags": ["western", "male", "thg", "tbosas"],
     "toDisplay": true,
     "location": "Ayala Malls Circuit, Makati",
-    "images": [],
+    "images": [
+      {
+        "src": "e-corio.png",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Coriolanus Snow",
+        "_printItemId": 2024
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2024-06-30"
   },
@@ -264,15 +307,19 @@
     "event": "Tanabta 2024 D2",
     "image": "/f-cypher.JPG",
     "isFeatured": true,
-    "tags": [
-      "game",
-      "gaming",
-      "male",
-      "valorant"
-    ],
+    "tags": ["game", "gaming", "male", "valorant"],
     "toDisplay": true,
     "location": "SM Megamall, Mandaluyong City",
-    "images": [],
+    "images": [
+      {
+        "src": "f-cypher.JPG",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Cypher",
+        "_printItemId": 2024
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2024-09-21"
   },
@@ -287,15 +334,19 @@
     "event": "ToyCon 2024 D2",
     "image": "/g-joker.jpg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "supervillain",
-      "dc"
-    ],
+    "tags": ["western", "male", "supervillain", "dc"],
     "toDisplay": true,
     "location": "SMX Convention Center, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "g-joker.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Arthur Fleck aka the Joker",
+        "_printItemId": 2024
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2024-06-16"
   },
@@ -310,15 +361,19 @@
     "event": "Anime Fair 2023 D1",
     "image": "/a-aki.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "chainsawman",
-      "demon"
-    ],
+    "tags": ["anime", "male", "chainsawman", "demon"],
     "toDisplay": true,
     "location": "Sun Garden 5th Floor, Ayala Malls Manila Bay",
-    "images": [],
+    "images": [
+      {
+        "src": "a-aki.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Aki Hayakawa",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-01-15"
   },
@@ -333,15 +388,19 @@
     "event": "Cosplay Satseui Arroceros Openshoot",
     "image": "/a-tanjiro.jpeg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "demon",
-      "kny"
-    ],
+    "tags": ["anime", "male", "demon", "kny"],
     "toDisplay": true,
     "location": "Arroceros Forest Park, Manila",
-    "images": [],
+    "images": [
+      {
+        "src": "a-tanjiro.jpeg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Kamado Tanjiro",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-03-04"
   },
@@ -356,14 +415,19 @@
     "event": "One Piece CG Photoshoot",
     "image": "/b-sanji.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "one piece"
-    ],
+    "tags": ["anime", "male", "one piece"],
     "toDisplay": true,
     "location": "Raichi Studio, QC",
-    "images": [],
+    "images": [
+      {
+        "src": "b-sanji.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Vinsmoke Sanji",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-05-07"
   },
@@ -378,15 +442,19 @@
     "event": "CSM CG Photoshoot",
     "image": "/c-galghali.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "chainsawman",
-      "demon"
-    ],
+    "tags": ["anime", "male", "chainsawman", "demon"],
     "toDisplay": true,
     "location": "30th Park, BGC",
-    "images": [],
+    "images": [
+      {
+        "src": "c-galghali.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Galghali aka Violence Fiend",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-07-09"
   },
@@ -401,16 +469,19 @@
     "event": "Liyue Hanfu CG Photoshoot",
     "image": "/c-zhongli.jpeg",
     "isFeatured": true,
-    "tags": [
-      "game",
-      "gaming",
-      "male",
-      "genshinimpact",
-      "genshin"
-    ],
+    "tags": ["game", "gaming", "male", "genshinimpact", "genshin"],
     "toDisplay": true,
     "location": "Sashinko Studio, QC",
-    "images": [],
+    "images": [
+      {
+        "src": "c-zhongli.jpeg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Zhongli (Hanfu Version)",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-07-22"
   },
@@ -425,15 +496,19 @@
     "event": "Ozine Fest Halloween Special 2023 D1",
     "image": "/c-wednesday.jpeg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "female",
-      "wednesday",
-      "addams family"
-    ],
+    "tags": ["western", "female", "wednesday", "addams family"],
     "toDisplay": true,
     "location": "Ayala Malls Fairview, QC",
-    "images": [],
+    "images": [
+      {
+        "src": "c-wednesday.jpeg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Wednesday Addams",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-10-22"
   },
@@ -448,15 +523,19 @@
     "event": "Cosplay Satsuei Helipad Openshoot",
     "image": "/d-suneater.jpeg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "mha",
-      "superhero"
-    ],
+    "tags": ["anime", "male", "mha", "superhero"],
     "toDisplay": true,
     "location": "ASEAN, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "d-suneater.jpeg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Tamaki Amajiki aka Suneater",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-12-07"
   },
@@ -471,16 +550,19 @@
     "event": "Geek+Pop 2023 D1",
     "image": "/e-loki.jpeg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "loki",
-      "marvel",
-      "mcu"
-    ],
+    "tags": ["western", "male", "loki", "marvel", "mcu"],
     "toDisplay": true,
     "location": "Ayala Malls Circuit, Makati",
-    "images": [],
+    "images": [
+      {
+        "src": "e-loki.jpeg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Loki Laufeyson",
+        "_printItemId": 2023
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2023-12-10"
   },
@@ -495,16 +577,19 @@
     "event": "Cosplay Carnival 2022 D1",
     "image": "/a-strange.jpg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "strange",
-      "marvel",
-      "mcu"
-    ],
+    "tags": ["western", "male", "strange", "marvel", "mcu"],
     "toDisplay": true,
     "location": "SMX Convention Center, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "a-strange.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Defender Strange",
+        "_printItemId": 2022
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2022-06-02"
   },
@@ -519,16 +604,19 @@
     "event": "ToyCon 2022 D1",
     "image": "/b-loki.jpg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "loki",
-      "marvel",
-      "mcu"
-    ],
+    "tags": ["western", "male", "loki", "marvel", "mcu"],
     "toDisplay": true,
     "location": "SM Megamall, Mandaluyong City",
-    "images": [],
+    "images": [
+      {
+        "src": "b-loki.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Void Loki",
+        "_printItemId": 2022
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2022-07-09"
   },
@@ -546,7 +634,16 @@
     "tags": "anime,female,002,mecha",
     "toDisplay": true,
     "location": "MOA by the Bay, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "c-002.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "002 (Zero Two)",
+        "_printItemId": 2022
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2022-10-02"
   },
@@ -561,16 +658,19 @@
     "event": "Cosplay Matsuri 2023 D3",
     "image": "/d-loki.jpeg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "loki",
-      "marvel",
-      "mcu"
-    ],
+    "tags": ["western", "male", "loki", "marvel", "mcu"],
     "toDisplay": true,
     "location": "SMX Convention Center, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "d-loki.jpeg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "TVA Agent Loki",
+        "_printItemId": 2022
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2022-12-29"
   },
@@ -585,16 +685,19 @@
     "event": "Cosplay Mini Matsuri 2021 D3",
     "image": "/a-loki.jpeg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "loki",
-      "marvel",
-      "mcu"
-    ],
+    "tags": ["western", "male", "loki", "marvel", "mcu"],
     "toDisplay": true,
     "location": "SMX Convention Center, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "a-loki.jpeg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "President Loki Variant",
+        "_printItemId": 2021
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2021-12-30"
   },
@@ -609,16 +712,19 @@
     "event": "Cosplay Carnival 2019 D1",
     "image": "/a-spidey.jpg",
     "isFeatured": true,
-    "tags": [
-      "western",
-      "male",
-      "spidey",
-      "marvel",
-      "mcu"
-    ],
+    "tags": ["western", "male", "spidey", "marvel", "mcu"],
     "toDisplay": true,
     "location": "SMX Convention Center, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "a-spidey.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Spider-Man aka Night Monkey",
+        "_printItemId": 2019
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2019-09-28"
   },
@@ -633,14 +739,19 @@
     "event": "Cosplay Mania 2018 D2",
     "image": "/a-deku.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "superhero"
-    ],
+    "tags": ["anime", "male", "superhero"],
     "toDisplay": true,
     "location": "SMX Convention Center, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "a-deku.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Midoriya Izuku aka Deku",
+        "_printItemId": 2018
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2018-09-30"
   },
@@ -658,7 +769,16 @@
     "tags": "animation,tadc,male",
     "toDisplay": true,
     "location": "Sashinko Studio, QC",
-    "images": [],
+    "images": [
+      {
+        "src": "c-disappearing-guy.png",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Disappearing Guy",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2026-03-22"
   },
@@ -673,15 +793,19 @@
     "event": "Tensura Movie Premiere",
     "image": "/d-rimuru.png",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "fantasy",
-      "tensura"
-    ],
+    "tags": ["anime", "male", "fantasy", "tensura"],
     "toDisplay": true,
     "location": "Cinema 2, The Block, SM North EDSA, QC",
-    "images": [],
+    "images": [
+      {
+        "src": "d-rimuru.png",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Rimuru Tempest",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2026-05-23"
   },
@@ -699,7 +823,16 @@
     "tags": "animation,tadc,male",
     "toDisplay": true,
     "location": "Obie's Prime Suite - 3BR KTV Lounge Near SM North",
-    "images": [],
+    "images": [
+      {
+        "src": "e-disappearing-guy.JPG",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Disappearing Guy, Noir",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2026-06-13"
   },
@@ -714,14 +847,19 @@
     "event": "MHA Timeskip CG Photoshoot",
     "image": "/f-tokoyami.jpg",
     "isFeatured": true,
-    "tags": [
-      "anime",
-      "male",
-      "superhero"
-    ],
+    "tags": ["anime", "male", "superhero"],
     "toDisplay": true,
     "location": "Gala Food Park, Pasay City",
-    "images": [],
+    "images": [
+      {
+        "src": "f-tokoyami.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Fumikage Tokoyami",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2026-05-03"
   },
@@ -736,13 +874,18 @@
     "photographer": "Subject: Troubadour",
     "photogPage": "https://www.facebook.com/share/1LPLfaPZri/",
     "event": "Pre-Tanabata 2026 D2",
-    "tags": [
-      "anime",
-      "male",
-      "gachiakuta"
-    ],
+    "tags": ["anime", "male", "gachiakuta"],
     "location": "China Town, Ayala Malls Manila Bay",
-    "images": [],
+    "images": [
+      {
+        "src": "g-august_stilza.JPG",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "August Stilza",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2026-07-19"
   },
@@ -757,15 +900,19 @@
     "photographer": "",
     "photogPage": "",
     "event": "Otaku Pop Fes 2026 D2",
-    "tags": [
-      "anime",
-      "male",
-      "fantasy",
-      "frieren"
-    ],
+    "tags": ["anime", "male", "fantasy", "frieren"],
     "location": "Okada Manila",
     "isFeatured": "true",
-    "images": [],
+    "images": [
+      {
+        "src": "h-Stark_Waltz.jpg",
+        "dateAdded": "2026-08-06",
+        "isFeatured": true,
+        "isNew": false,
+        "alt": "Stark (Waltz version)",
+        "_printItemId": 2026
+      }
+    ],
     "dateAdded": "2026-08-06",
     "eventDate": "2026-04-26"
   },
@@ -783,13 +930,7 @@
     "location": "SMX Convention Center, Pasay City",
     "image": "/the-crawler-a1.jpg",
     "isFeatured": "",
-    "tags": [
-      "vigilantes",
-      "manga",
-      "anime",
-      "hero",
-      "male"
-    ],
+    "tags": ["vigilantes", "manga", "anime", "hero", "male"],
     "images": [
       {
         "src": "the-crawler-a1.jpg",
