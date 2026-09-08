@@ -266,7 +266,7 @@
         "_printItemId": "5"
       }
     ],
-    "description": "Okarun from Dandadan in in his normal form.",
+    "description": "Okarun from Dandadan in his normal form.",
     "category": "anime, dandadan, male",
     "dateAdded": "2026-07-24",
     "toDisplay": true
@@ -680,17 +680,18 @@
   {
     "toDisplay": true,
     "id": 14,
-    "title": "Guren x Zhongli",
+    "title": "Zhongli",
     "images": [
       {
         "src": "guren-zhongli-a1.jpg",
         "dateAdded": "2026-08-04",
-        "isFeatured": true,
+        "isFeatured": false,
         "isNew": true,
         "alt": "guren-zhongli-a1.jpg",
-        "description": "",
+        "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli.",
         "_file": {},
-        "_printItemId": 14
+        "_printItemId": 14,
+        "photographer": "Royal Wonderland"
       },
       {
         "src": "guren-zhongli-a2.jpg",
@@ -698,13 +699,47 @@
         "isFeatured": false,
         "isNew": true,
         "alt": "guren-zhongli-a2.jpg",
+        "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli.",
+        "_file": {},
+        "_printItemId": 14,
+        "photographer": "Royal Wonderland"
+      },
+      {
+        "src": "zhongli-hanfu-a1.png",
+        "dateAdded": "2026-08-13",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "zhongli-hanfu-a1.png",
         "description": "",
         "_file": {},
-        "_printItemId": 14
+        "_printItemId": 14,
+        "photographer": "Erving Go"
+      },
+      {
+        "src": "zhongli-hanfu-a2.jpg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "zhongli-hanfu-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 14,
+        "photographer": "Erving Go"
+      },
+      {
+        "src": "zhongli-hanfu-a3.jpg",
+        "dateAdded": "2026-08-13",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "zhongli-hanfu-a3.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 14,
+        "photographer": "Erving Go"
       }
     ],
-    "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli\n\nRoyal Winderland",
-    "category": "anime, game, genshin, fantasy, male",
+    "description": "From the game Genshin Impact, Zhongli is a playable 5-star Geo character.",
+    "category": "anime, game, genshin, morax, fantasy, male",
     "dateAdded": "2026-08-04"
   },
   {

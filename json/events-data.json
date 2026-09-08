@@ -998,7 +998,7 @@
   {
     "toDisplay": true,
     "id": 16,
-    "date": "AUGUST 29, 2026",
+    "date": "SEPTEMBER 12, 2026",
     "year": 2026,
     "title": "Tech & Play Cosplay Ready! by Hobby Con",
     "location": "SM City Marikina, Ground Level",
@@ -1015,11 +1015,21 @@
     "description": "A cosplay event focused on gaming",
     "images": [
       {
-        "src": "judge-banner.jpg",
+        "src": "judge-banner.png",
         "dateAdded": "2026-08-19",
         "isFeatured": true,
         "isNew": true,
-        "alt": "judge-banner.jpg",
+        "alt": "judge-banner.png",
+        "description": "",
+        "_file": {},
+        "_printItemId": 16
+      },
+      {
+        "src": "judges-banner.jpg",
+        "dateAdded": "2026-09-01",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "judges-banner.jpg",
         "description": "",
         "_file": {},
         "_printItemId": 16

@@ -1,3 +1,5 @@
 [
-    {"sendEmail": true}
+    {
+        "useHDImages" : false
+    }
 ]
