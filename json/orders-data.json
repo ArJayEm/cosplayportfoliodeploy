@@ -141,7 +141,8 @@
     "orderDate": "2026-08-25T18:13:25.657Z",
     "orderId": "RJM13:25.657Z38",
     "isFirstOrder": true,
-    "isFirstTimeUser": true
+    "isFirstTimeUser": true,
+    "status": "packed"
   },
   {
     "name": "Ardz Zala",
