@@ -242,14 +242,14 @@
         "dateAdded": "2026-07-24",
         "isFeatured": false,
         "isNew": false,
-        "alt": "",
+        "alt": "okarun-a1.jpg",
         "description": ""
       },
       {
         "src": "okarun-b1.jpg",
         "dateAdded": "2026-07-29",
         "isFeatured": false,
-        "isNew": true,
+        "isNew": false,
         "alt": "1000054089",
         "description": "",
         "_file": {},
@@ -259,7 +259,7 @@
         "src": "okarun-c1.jpg",
         "dateAdded": "2026-07-29",
         "isFeatured": false,
-        "isNew": true,
+        "isNew": false,
         "alt": "1000103559",
         "description": "",
         "_file": {},
@@ -690,8 +690,7 @@
         "alt": "guren-zhongli-a1.jpg",
         "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli.",
         "_file": {},
-        "_printItemId": 14,
-        "photographer": "Royal Wonderland"
+        "_printItemId": 14
       },
       {
         "src": "guren-zhongli-a2.jpg",
@@ -701,8 +700,7 @@
         "alt": "guren-zhongli-a2.jpg",
         "description": "An Owari no Seraph x Genshin Impact mashup of Guren Ichinose and Zhongli.",
         "_file": {},
-        "_printItemId": 14,
-        "photographer": "Royal Wonderland"
+        "_printItemId": 14
       },
       {
         "src": "zhongli-hanfu-a1.png",
@@ -712,8 +710,7 @@
         "alt": "zhongli-hanfu-a1.png",
         "description": "",
         "_file": {},
-        "_printItemId": 14,
-        "photographer": "Erving Go"
+        "_printItemId": 14
       },
       {
         "src": "zhongli-hanfu-a2.jpg",
@@ -723,8 +720,7 @@
         "alt": "zhongli-hanfu-a2.jpg",
         "description": "",
         "_file": {},
-        "_printItemId": 14,
-        "photographer": "Erving Go"
+        "_printItemId": 14
       },
       {
         "src": "zhongli-hanfu-a3.jpg",
@@ -734,8 +730,7 @@
         "alt": "zhongli-hanfu-a3.jpg",
         "description": "",
         "_file": {},
-        "_printItemId": 14,
-        "photographer": "Erving Go"
+        "_printItemId": 14
       }
     ],
     "description": "From the game Genshin Impact, Zhongli is a playable 5-star Geo character.",
@@ -1261,5 +1256,35 @@
     "description": "Loid Forger is the main protagonist of the action-comedy anime and manga series Spy × Family. Within the fake family he constructed for his mission, he plays the role of Yor Forger's husband and Anya Forger's adoptive father.",
     "category": "anime, male, spy, spy x family",
     "dateAdded": "2026-08-15T11:14:00"
+  },
+  {
+    "toDisplay": true,
+    "id": 25,
+    "title": "Power",
+    "images": [
+      {
+        "src": "power-a1.jpg",
+        "dateAdded": "2026-09-16",
+        "isFeatured": true,
+        "isNew": true,
+        "alt": "power-a1.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 25
+      },
+      {
+        "src": "power-a2.jpg",
+        "dateAdded": "2026-09-16",
+        "isFeatured": false,
+        "isNew": true,
+        "alt": "power-a2.jpg",
+        "description": "",
+        "_file": {},
+        "_printItemId": 25
+      }
+    ],
+    "description": "From the manga and anime Chainsaw Man.",
+    "category": "female, anime, demon",
+    "dateAdded": "2026-09-16T07:59:24.239Z"
   }
 ]
