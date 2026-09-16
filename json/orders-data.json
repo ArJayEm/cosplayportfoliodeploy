@@ -110,7 +110,8 @@
     "orderDate": "2026-08-25T18:55:36.627Z",
     "orderId": "RJM55:36.627Z43",
     "isFirstOrder": true,
-    "isFirstTimeUser": true
+    "isFirstTimeUser": true,
+    "status": "packed"
   },
   {
     "name": "Shiro",
@@ -183,6 +184,7 @@
     "orderDate": "2026-08-25T18:08:35.467Z",
     "orderId": "RJM08:35.467Z64",
     "isFirstOrder": true,
-    "isFirstTimeUser": true
+    "isFirstTimeUser": true,
+    "status": "packed"
   }
 ]
