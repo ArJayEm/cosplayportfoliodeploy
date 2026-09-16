@@ -59,7 +59,8 @@
     "orderDate": "2026-08-25T19:57:53.592Z",
     "orderId": "RJM57:53.592Z66",
     "isFirstOrder": true,
-    "isFirstTimeUser": true
+    "isFirstTimeUser": true,
+    "status": "packed"
   },
   {
     "name": "Kosuke Heterion",
